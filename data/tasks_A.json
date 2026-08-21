@@ -1,0 +1,2599 @@
+[
+  {
+    "blind_id": "V0001",
+    "sentence": "I was nominated for President for a student organization I'm a part of.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2571,
+    "image": "visuals/V0001_phrase.png"
+  },
+  {
+    "blind_id": "V0002",
+    "sentence": "I felt ... when I took a Covid test on the day before my graduation and it was negative. I was ... as if it was positive I wouldn't be able to attend my gradation the next day.",
+    "predicted_emotion": "relief",
+    "confidence": 0.8115,
+    "image": "visuals/V0002_phrase.png"
+  },
+  {
+    "blind_id": "V0003",
+    "sentence": "When my 1 year-old son was in his swing in our back yard and he flung himself forward towards a ball in front of him. He managed to tip himself right over, which we didn't realize was possible as the swing was designed for children his age, and he nearly to the ground onto his head but luckily I was a few feet away and was able to catch him.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2788,
+    "image": "visuals/V0003_phrase.png"
+  },
+  {
+    "blind_id": "V0004",
+    "sentence": "my dad was in hospital and the doctors originally said its likely he'll need his foot/leg amputated but days later were told it was no longer needed.",
+    "predicted_emotion": "relief",
+    "confidence": 0.1782,
+    "image": "visuals/V0004_phrase.png"
+  },
+  {
+    "blind_id": "V0006",
+    "sentence": "My son behaved well at the park. He shared his ball and snacks and played well with the other kids. I felt ... of him",
+    "predicted_emotion": "pride",
+    "confidence": 0.2722,
+    "image": "visuals/V0006_phrase.png"
+  },
+  {
+    "blind_id": "V0007",
+    "sentence": "I was at a wedding which went on for hours and the food was not served yet.",
+    "predicted_emotion": "boredom",
+    "confidence": 0.9467,
+    "image": "visuals/V0007_phrase.png"
+  },
+  {
+    "blind_id": "V0010",
+    "sentence": "I became chartered",
+    "predicted_emotion": "pride",
+    "confidence": 0.984,
+    "image": "visuals/V0010_phrase.png"
+  },
+  {
+    "blind_id": "V0012",
+    "sentence": "my daughter's covid test came back negative because I was close to going into labour and positive result would have meant labouring alone along with struggling to manage my daughter's illness.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2078,
+    "image": "visuals/V0012_phrase.png"
+  },
+  {
+    "blind_id": "V0014",
+    "sentence": "my parents let me hold by baby siblings",
+    "predicted_emotion": "trust",
+    "confidence": 0.4031,
+    "image": "visuals/V0014_phrase.png"
+  },
+  {
+    "blind_id": "V0015",
+    "sentence": "I felt ... when the pandemic first started and I read online that people were choosing to not want to wear a mask. I felt so upset because they were choosing to not listen to the hard working scientist and not wanting to protect others. Especially kids, elderly people, and immunocompromised people.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.6375,
+    "image": "visuals/V0015_phrase.png"
+  },
+  {
+    "blind_id": "V0016",
+    "sentence": "I felt ... when I slid face-first off a tin roof and was luckily caught by my dad.",
+    "predicted_emotion": "fear",
+    "confidence": 0.715,
+    "image": "visuals/V0016_phrase.png"
+  },
+  {
+    "blind_id": "V0018",
+    "sentence": "of the growing discourse in views between the common folk of my area. Seemingly every conservative has fallen off of the deep end of the alt-right side of the spectrum, and people who are centerists or even slightly leaning left are vilified.",
+    "predicted_emotion": "anger",
+    "confidence": 0.9226,
+    "image": "visuals/V0018_phrase.png"
+  },
+  {
+    "blind_id": "V0020",
+    "sentence": "I felt ... whenever customers come into the store, give me their water sample and ... everything I tell them and buy all of the products I suggest. when people actually ... me and believe that I'm not just selling them stuff to make money.",
+    "predicted_emotion": "trust",
+    "confidence": 0.5548,
+    "image": "visuals/V0020_phrase.png"
+  },
+  {
+    "blind_id": "V0021",
+    "sentence": "A dog ran out in front of my car.",
+    "predicted_emotion": "fear",
+    "confidence": 0.3471,
+    "image": "visuals/V0021_phrase.png"
+  },
+  {
+    "blind_id": "V0023",
+    "sentence": "No one helps around the house",
+    "predicted_emotion": "anger",
+    "confidence": 0.4209,
+    "image": "visuals/V0023_phrase.png"
+  },
+  {
+    "blind_id": "V0024",
+    "sentence": "When I qualified as a solicitor",
+    "predicted_emotion": "pride",
+    "confidence": 0.2828,
+    "image": "visuals/V0024_phrase.png"
+  },
+  {
+    "blind_id": "V0026",
+    "sentence": "I felt ... when I first went to pick up my puppy when we were picking him up from the breeder and he jumped from my arms and fell to the ground and cried and whimpered for like a minute straight. he's completely fine and is just a drama king, and still cries over absolutely nothing, but it was very ... thinking I may have hurt a 5 pound puppy.",
+    "predicted_emotion": "fear",
+    "confidence": 0.2817,
+    "image": "visuals/V0026_phrase.png"
+  },
+  {
+    "blind_id": "V0027",
+    "sentence": "I felt ... when I graduated the  best student in my class",
+    "predicted_emotion": "pride",
+    "confidence": 0.6745,
+    "image": "visuals/V0027_phrase.png"
+  },
+  {
+    "blind_id": "V0028",
+    "sentence": "I got my results for my Undergraduate Degree. I had really put my all into my work for it after a really tough couple of years (both of my parents dying). This was my first and only year where I felt as if I had grown up and when I got a first class honours degree (in a subject I truly believed I was awful in) it really gave me ....",
+    "predicted_emotion": "joy",
+    "confidence": 0.3136,
+    "image": "visuals/V0028_phrase.png"
+  },
+  {
+    "blind_id": "V0029",
+    "sentence": "winning in bingo that i didnt expect.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.3809,
+    "image": "visuals/V0029_phrase.png"
+  },
+  {
+    "blind_id": "V0032",
+    "sentence": "Someone in my direct community stole from me and we caught them red handed. It made me feel ... not just because I\u2019d been a victims of a crime, but someone I knew had done this to be and I had been violated",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9639,
+    "image": "visuals/V0032_phrase.png"
+  },
+  {
+    "blind_id": "V0034",
+    "sentence": "My girlfriend got pregnant. I didn't even know if I should be angry or be happy. Everytime I remember the scenario I just laugh off",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.1626,
+    "image": "visuals/V0034_phrase.png"
+  },
+  {
+    "blind_id": "V0035",
+    "sentence": "When I went on a rollercoaster and had to ... that the equipment had been checked and would work properly.",
+    "predicted_emotion": "trust",
+    "confidence": 0.8981,
+    "image": "visuals/V0035_phrase.png"
+  },
+  {
+    "blind_id": "V0041",
+    "sentence": "... I was on a research trip on the Amazon River, taking off from a small town called Iquitos. One night, while waiting outside a restaurant to grab a bite, a very young child took their clothes off and pissed all over the street. The parent right there, watching, sitting in the puddle.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.3372,
+    "image": "visuals/V0041_phrase.png"
+  },
+  {
+    "blind_id": "V0042",
+    "sentence": "\"I heard my daughter pronounce words with \"\"le\"\" at the end of them correctly.\"",
+    "predicted_emotion": "surprise",
+    "confidence": 0.3676,
+    "image": "visuals/V0042_phrase.png"
+  },
+  {
+    "blind_id": "V0043",
+    "sentence": "i felt ... the first night i moved in with my boyfrend because i had my own space and never hd to worry about when i would see him again.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2396,
+    "image": "visuals/V0043_phrase.png"
+  },
+  {
+    "blind_id": "V0044",
+    "sentence": "I felt ... when my long distance partner could finally come to canada after the lockdown was over! he lives in the US and the canadian border was closed to them for a long time until just recently, we were finally able to see each other again after 1.5 years.",
+    "predicted_emotion": "joy",
+    "confidence": 0.9464,
+    "image": "visuals/V0044_phrase.png"
+  },
+  {
+    "blind_id": "V0046",
+    "sentence": "Back in high school when I told my friend that I was feeling suicidal. I ... them to be there for me, and ... them when they convinced me to talk to the school psychologist. I regularly confided in them about my problems and always ... them, but particularly then, I ... them as they came with me to see the psych.",
+    "predicted_emotion": "trust",
+    "confidence": 0.9513,
+    "image": "visuals/V0046_phrase.png"
+  },
+  {
+    "blind_id": "V0048",
+    "sentence": "when I went to say hi to my boss who turned his head just as I was about to speak and pretended to talk to someone else.",
+    "predicted_emotion": "anger",
+    "confidence": 0.7008,
+    "image": "visuals/V0048_phrase.png"
+  },
+  {
+    "blind_id": "V0049",
+    "sentence": "After I went on a date that I wasn\u2019t interested in and he kept trying to talk to me. The spark had gone and when they would message me I just felt ... towards it",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.1797,
+    "image": "visuals/V0049_phrase.png"
+  },
+  {
+    "blind_id": "V0050",
+    "sentence": "I was playing cricket with my siblings and friends. I was fielding, in the outfield. I was waiting for the ball to be hit my way and it didn't come my way for a long time. I felt very ... just standing there, waiting for the ball, when it didn't appear and I had nothing to do. I don't like playing cricket that much anyway, and when I play I like batting the most. I don't like fielding as it's mostly standing there with nothing to do. I don't like being in the outfield especially as it's even more just standing there. This particular time I stood there for ages without the ball coming near me.",
+    "predicted_emotion": "boredom",
+    "confidence": 0.6639,
+    "image": "visuals/V0050_phrase.png"
+  },
+  {
+    "blind_id": "V0052",
+    "sentence": "When I found out I had not jeopardized my paycheck by submitting my invoice before I had received an auto invoice. I had been loosely/vaguely instructed not to submit my invoice before receiving all my hours, but the automated hours were hadn't showed up on my invoice and the deadline for submission was approaching",
+    "predicted_emotion": "relief",
+    "confidence": 0.2885,
+    "image": "visuals/V0052_phrase.png"
+  },
+  {
+    "blind_id": "V0054",
+    "sentence": "we were trying to sell our second home and it seemed we were not going to actually sell it as we had no people around in ages. Then someone viewed and offered asking price, they were a cash buyer and the sale went through in only 6 weeks",
+    "predicted_emotion": "relief",
+    "confidence": 0.2437,
+    "image": "visuals/V0054_phrase.png"
+  },
+  {
+    "blind_id": "V0055",
+    "sentence": "my child was born/because my draining 9 months of pregnancy was finally over and my baby was finally in my arms after waiting for so long",
+    "predicted_emotion": "joy",
+    "confidence": 0.9799,
+    "image": "visuals/V0055_phrase.png"
+  },
+  {
+    "blind_id": "V0058",
+    "sentence": "When I found out someone I went to school with was homosexual I very .... Especially as for years at school he was dating the same girl, who was quite pretty and a lot of the other boys were jealous of. He married her and had 2 kids with her. None of us had any idea he was gay. She asked him for years if he was gay and it took until he was 30 to finally come out. Total .... !!",
+    "predicted_emotion": "surprise",
+    "confidence": 0.9727,
+    "image": "visuals/V0058_phrase.png"
+  },
+  {
+    "blind_id": "V0059",
+    "sentence": "I felt ... when my COVID test came back negative",
+    "predicted_emotion": "relief",
+    "confidence": 0.3113,
+    "image": "visuals/V0059_phrase.png"
+  },
+  {
+    "blind_id": "V0060",
+    "sentence": "I felt ... last week because of a vaccination I had (anthrax). I had never had it before and I had the most extreme side effects including shortness of breath.",
+    "predicted_emotion": "fear",
+    "confidence": 0.2322,
+    "image": "visuals/V0060_phrase.png"
+  },
+  {
+    "blind_id": "V0062",
+    "sentence": "My manager asked me to take voluntary pay reduction due to COVID. He promised that my pay would return to normal after 3 months and that I would be rewarded for my sacrifice. I ... him and it all worked out well.",
+    "predicted_emotion": "trust",
+    "confidence": 0.4353,
+    "image": "visuals/V0062_phrase.png"
+  },
+  {
+    "blind_id": "V0065",
+    "sentence": "my boyfriend and I managed to overcome a big hurdle in our relationship. I felt very ... of both of us for how we handled the situation and how we became stronger as a result",
+    "predicted_emotion": "pride",
+    "confidence": 0.8153,
+    "image": "visuals/V0065_phrase.png"
+  },
+  {
+    "blind_id": "V0066",
+    "sentence": "I walked home alone from a party",
+    "predicted_emotion": "fear",
+    "confidence": 0.7479,
+    "image": "visuals/V0066_phrase.png"
+  },
+  {
+    "blind_id": "V0070",
+    "sentence": "I felt ... when I was promoted to manager in a vacation club in Dominican republic, I had worked so hard 7 days a week for months to get that promotion and I got it. I was ... of myself for that.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3747,
+    "image": "visuals/V0070_phrase.png"
+  },
+  {
+    "blind_id": "V0071",
+    "sentence": "Something that made me feel ... was the when my sister's cat rubbed itself on me and then curled up in my lap and proceeded to sleep. It made me feel really ... and warm inside.",
+    "predicted_emotion": "joy",
+    "confidence": 0.6152,
+    "image": "visuals/V0071_phrase.png"
+  },
+  {
+    "blind_id": "V0073",
+    "sentence": "I felt ... when I was able to finish a project I was working on in time for presentation",
+    "predicted_emotion": "relief",
+    "confidence": 0.2921,
+    "image": "visuals/V0073_phrase.png"
+  },
+  {
+    "blind_id": "V0074",
+    "sentence": "I felt ... when I got my exam results and found out id passed my year",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2357,
+    "image": "visuals/V0074_phrase.png"
+  },
+  {
+    "blind_id": "V0078",
+    "sentence": "\"I felt ... when I overheard a conversation about me that was happening between the guy I was dating and an acquaintance of mine. The acquaintance was fishing for personal information about my life situation and the guy I was dating said without hesitation \"\"That's information you should be asking her directly. I know the information but I am certainly not going to share it with you without her permission and shame on you for thinking I would throw her under the bus.\"\" It was a guy I had just began to date and was still a little unsure about him. But this showed me that he had my back right from the very start and I knew in that moment that I could ... him.\"",
+    "predicted_emotion": "trust",
+    "confidence": 0.277,
+    "image": "visuals/V0078_phrase.png"
+  },
+  {
+    "blind_id": "V0079",
+    "sentence": "I got my first freelance client",
+    "predicted_emotion": "pride",
+    "confidence": 0.2243,
+    "image": "visuals/V0079_phrase.png"
+  },
+  {
+    "blind_id": "V0080",
+    "sentence": "I felt ... the last time I was at a concert of my favourite band, watching the band walk out on stage felt magical and hearing all my favourite songs live was bliss",
+    "predicted_emotion": "joy",
+    "confidence": 0.9911,
+    "image": "visuals/V0080_phrase.png"
+  },
+  {
+    "blind_id": "V0081",
+    "sentence": "I was told my work team would be made redundant because I didn't know if i was going to find another job",
+    "predicted_emotion": "fear",
+    "confidence": 0.2116,
+    "image": "visuals/V0081_phrase.png"
+  },
+  {
+    "blind_id": "V0083",
+    "sentence": "I was admitted to hospital to have a C section to deliver my baby I put my ... in the nurses and doctors",
+    "predicted_emotion": "trust",
+    "confidence": 0.8959,
+    "image": "visuals/V0083_phrase.png"
+  },
+  {
+    "blind_id": "V0085",
+    "sentence": "I felt ... when my favourite tv show got cancelled",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9333,
+    "image": "visuals/V0085_phrase.png"
+  },
+  {
+    "blind_id": "V0088",
+    "sentence": "I lost my grandma. It wasn't a sweet experience at all. I cried bitterly for days.",
+    "predicted_emotion": "sadness",
+    "confidence": 1.0,
+    "image": "visuals/V0088_phrase.png"
+  },
+  {
+    "blind_id": "V0089",
+    "sentence": "I broke up with my last partner.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.2416,
+    "image": "visuals/V0089_phrase.png"
+  },
+  {
+    "blind_id": "V0092",
+    "sentence": "I felt ... walking home when I was younger passing a large group of youths who were shouting at me and threatening me",
+    "predicted_emotion": "fear",
+    "confidence": 1.0,
+    "image": "visuals/V0092_phrase.png"
+  },
+  {
+    "blind_id": "V0093",
+    "sentence": "I felt ... when I found out that my brother was moving out.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2805,
+    "image": "visuals/V0093_phrase.png"
+  },
+  {
+    "blind_id": "V0095",
+    "sentence": "my friend asked me which show I would like to see, I responded, unsure if he would like me choice, and he said he would even take me to watch grass grow if that's what I wanted to see.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.5598,
+    "image": "visuals/V0095_phrase.png"
+  },
+  {
+    "blind_id": "V0096",
+    "sentence": "I found out that a store had kept my wallet safe after I thought I had lost it a few days earlier",
+    "predicted_emotion": "relief",
+    "confidence": 0.9495,
+    "image": "visuals/V0096_phrase.png"
+  },
+  {
+    "blind_id": "V0097",
+    "sentence": "Spiders ... me, if I see one I will run from it then panic if I can\u2019t see it",
+    "predicted_emotion": "fear",
+    "confidence": 0.975,
+    "image": "visuals/V0097_phrase.png"
+  },
+  {
+    "blind_id": "V0098",
+    "sentence": "When I was having a tired, stressful day and my toddler finally fell asleep for her nap. I had lots to do and couldn\u2019t manage doing it with her awake and wanting to play, so when she fell asleep it was a big ... that I could carry on without distraction.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2494,
+    "image": "visuals/V0098_phrase.png"
+  },
+  {
+    "blind_id": "V0101",
+    "sentence": "I felt ... when I learned that I did not do well on my law school aptitude test (LSAT). I wanted to attend the same law school where I was completing my master's degree, which required a high LSAT score (around 165 or above). I developed health problems the year that negatively affected my reading comprehension, resulting in a low score. When I learned that a health condition I could not control harmed my LSAT score, I was extremely ... (not depressed, more very bummed out).",
+    "predicted_emotion": "sadness",
+    "confidence": 0.3889,
+    "image": "visuals/V0101_phrase.png"
+  },
+  {
+    "blind_id": "V0103",
+    "sentence": "I felt ... when I graduated with a law degree. It wasn't something that I had anticipated feeling so ... of, but the entire day of my graduation I was so, so ... of myself.",
+    "predicted_emotion": "pride",
+    "confidence": 0.4722,
+    "image": "visuals/V0103_phrase.png"
+  },
+  {
+    "blind_id": "V0106",
+    "sentence": "Watching a film,unable to leave as I was a volunteer in the cinema",
+    "predicted_emotion": "boredom",
+    "confidence": 0.9471,
+    "image": "visuals/V0106_phrase.png"
+  },
+  {
+    "blind_id": "V0108",
+    "sentence": "Last month I felt incredibly ... of my mum, as she passed her motorcycle test. She was never able to ride a two wheeled bike growing up, and always cycled using her trusty red trike during my childhood! So for her to overcome this (and also overcome a heart attack christmastime last year!!) to achieve her goal, is incredible, and I am still busting with ... at her for the epic achievement",
+    "predicted_emotion": "pride",
+    "confidence": 0.2707,
+    "image": "visuals/V0108_phrase.png"
+  },
+  {
+    "blind_id": "V0109",
+    "sentence": "When I was in an ambulance I ... the professionals",
+    "predicted_emotion": "trust",
+    "confidence": 0.3077,
+    "image": "visuals/V0109_phrase.png"
+  },
+  {
+    "blind_id": "V0110",
+    "sentence": "I was accused of doing something I did not do",
+    "predicted_emotion": "anger",
+    "confidence": 0.8952,
+    "image": "visuals/V0110_phrase.png"
+  },
+  {
+    "blind_id": "V0114",
+    "sentence": "my child was born/because my draining 9 months of pregnancy was finally over and my baby was finally in my arms after waiting for so long",
+    "predicted_emotion": "joy",
+    "confidence": 0.8832,
+    "image": "visuals/V0114_phrase.png"
+  },
+  {
+    "blind_id": "V0115",
+    "sentence": "I was on a long distance bus travelling by myself and I forgot any books to read",
+    "predicted_emotion": "boredom",
+    "confidence": 0.99,
+    "image": "visuals/V0115_phrase.png"
+  },
+  {
+    "blind_id": "V0117",
+    "sentence": "my Grandma fell and she had no broken bones",
+    "predicted_emotion": "relief",
+    "confidence": 0.7596,
+    "image": "visuals/V0117_phrase.png"
+  },
+  {
+    "blind_id": "V0120",
+    "sentence": "my mother opened up to me about her mental health problems as i confessed about my own. i felt safe to ... her.",
+    "predicted_emotion": "trust",
+    "confidence": 0.9794,
+    "image": "visuals/V0120_phrase.png"
+  },
+  {
+    "blind_id": "V0121",
+    "sentence": "The same day I broke my arm, I had surgery to secure it with a plate.  It was performed very late after a very unpleasant day and finished just after midnight.  One of the most ... experiences I've ever had was waking up on the gurney with an arm that no longer had two halves of a bone jousting with each other.  I was wheeled back to my room and had my first proper sleep since about 4am the previous day.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3213,
+    "image": "visuals/V0121_phrase.png"
+  },
+  {
+    "blind_id": "V0122",
+    "sentence": "I felt ... when I was out one day picking up trash in the park and a woman around my age came up to me and was so excited to see what I was doing, she asked for my phone number and said maybe we could hang out sometime and get our kids to hang out. I was ... because no one had ever been that excited about something I was doing, and as an adult I'd never had a stranger ask for my number and want to be my friend so randomly like that.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.4837,
+    "image": "visuals/V0122_phrase.png"
+  },
+  {
+    "blind_id": "V0124",
+    "sentence": "I felt ... when followed by an unknown vehicle in a foreign country.",
+    "predicted_emotion": "fear",
+    "confidence": 0.9085,
+    "image": "visuals/V0124_phrase.png"
+  },
+  {
+    "blind_id": "V0125",
+    "sentence": "I felt ... when I was called out for giving incorrect information on a topic that I thought I knew very well.",
+    "predicted_emotion": "shame",
+    "confidence": 0.9524,
+    "image": "visuals/V0125_phrase.png"
+  },
+  {
+    "blind_id": "V0127",
+    "sentence": "My wife and I left our kids and went on a vacation just the two of us. While we were away we ... the care of our kids with our nanny, who we've worked with for many years.",
+    "predicted_emotion": "trust",
+    "confidence": 0.7467,
+    "image": "visuals/V0127_phrase.png"
+  },
+  {
+    "blind_id": "V0129",
+    "sentence": "I felt ... when my car battery died when I was 40 minutes from home",
+    "predicted_emotion": "fear",
+    "confidence": 0.3837,
+    "image": "visuals/V0129_phrase.png"
+  },
+  {
+    "blind_id": "V0131",
+    "sentence": "I lied about being busy with the family when we are not. I couldn\u2019t face attending this event with my family when we are having a very busy and stressful time. I just couldn\u2019t face it. But I felt very ... having lied. It is a white lie in my eyes but I still feel bad about it. Oh dear!",
+    "predicted_emotion": "guilt",
+    "confidence": 0.9707,
+    "image": "visuals/V0131_phrase.png"
+  },
+  {
+    "blind_id": "V0134",
+    "sentence": "I accidentally broke one of my mother's cats legs",
+    "predicted_emotion": "guilt",
+    "confidence": 0.9961,
+    "image": "visuals/V0134_phrase.png"
+  },
+  {
+    "blind_id": "V0138",
+    "sentence": "My cat of 16 years passed away last year",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9934,
+    "image": "visuals/V0138_phrase.png"
+  },
+  {
+    "blind_id": "V0139",
+    "sentence": "I felt ... when my son got voted head boy at school",
+    "predicted_emotion": "pride",
+    "confidence": 0.6173,
+    "image": "visuals/V0139_phrase.png"
+  },
+  {
+    "blind_id": "V0140",
+    "sentence": "A doctor started to administer a general",
+    "predicted_emotion": "trust",
+    "confidence": 0.1841,
+    "image": "visuals/V0140_phrase.png"
+  },
+  {
+    "blind_id": "V0142",
+    "sentence": "I talked to my sister about anger I was feeling towards my parents because I know she will always be there for me and listen to what I have to say. She would never tell anyone the things I told her.",
+    "predicted_emotion": "trust",
+    "confidence": 0.2877,
+    "image": "visuals/V0142_phrase.png"
+  },
+  {
+    "blind_id": "V0143",
+    "sentence": "there was a hair in my food at a restaurant",
+    "predicted_emotion": "disgust",
+    "confidence": 0.4689,
+    "image": "visuals/V0143_phrase.png"
+  },
+  {
+    "blind_id": "V0146",
+    "sentence": "I felt ... the day a physician picked my husband up in the hospital, and gently lowered him down into his hospital bed. It was my husband\u2019s first episode of his life threatening illness. He had been in hospital for months, had lost so much weight and was frail and weak. The physician needed my husband to stand for a blood pressure but he lost his strength. That\u2019s when the physician lifted him up. To witness someone treat my husband so gently was very emotionally touching. I felt instant ... in this physician I had never before met. We asked him to be my husband\u2019s specialist as an out patient and he agreed. He\u2019s saved my husband\u2019s life multiple times in the decade since.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3784,
+    "image": "visuals/V0146_phrase.png"
+  },
+  {
+    "blind_id": "V0147",
+    "sentence": "I felt ... when I found out my boyfriend hadn\u2019t been inviting me places when his friends had been asking him to",
+    "predicted_emotion": "disgust",
+    "confidence": 0.2123,
+    "image": "visuals/V0147_phrase.png"
+  },
+  {
+    "blind_id": "V0148",
+    "sentence": "I felt ... when my dad left",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9159,
+    "image": "visuals/V0148_phrase.png"
+  },
+  {
+    "blind_id": "V0150",
+    "sentence": "my parter said he would put the snow tires on the car and then he came in and told me it was done.",
+    "predicted_emotion": "trust",
+    "confidence": 0.8461,
+    "image": "visuals/V0150_phrase.png"
+  },
+  {
+    "blind_id": "V0151",
+    "sentence": "4 years ago i had open heart surgery done.  I was new to the hospital and knew none of the doctors or nurses, even though I did not know the surgeon I implicitly ... him and his decisions.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3826,
+    "image": "visuals/V0151_phrase.png"
+  },
+  {
+    "blind_id": "V0152",
+    "sentence": "I felt ... this morning when I realized instead of me paying for college, my college was paying me",
+    "predicted_emotion": "surprise",
+    "confidence": 0.245,
+    "image": "visuals/V0152_phrase.png"
+  },
+  {
+    "blind_id": "V0153",
+    "sentence": "I graduated High School.  I slacked off a lot in my earlier years of school, making my senior year very difficult and stressful as I was unsure of whether or not I would have the sufficient credits for graduation.  I had to put in many extra hours and late nights, but it had all paid off.  I ended up just meeting the requirements, and graduated with honours.  I felt so much ... in myself for being able to overcome my past mistakes and make something of myself.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3205,
+    "image": "visuals/V0153_phrase.png"
+  },
+  {
+    "blind_id": "V0155",
+    "sentence": "I was driving down a country lane and a tractor came round the corner so i pressed my breaks and the car just slid on the stones i had to choose tractor tire or bush to put my car into i chose bush.",
+    "predicted_emotion": "fear",
+    "confidence": 0.3772,
+    "image": "visuals/V0155_phrase.png"
+  },
+  {
+    "blind_id": "V0156",
+    "sentence": "i found out we would be in level 4 lockdown",
+    "predicted_emotion": "surprise",
+    "confidence": 0.3971,
+    "image": "visuals/V0156_phrase.png"
+  },
+  {
+    "blind_id": "V0157",
+    "sentence": "When my community gardening group held an open day to open up the allotment which we had been working on together for a year.",
+    "predicted_emotion": "pride",
+    "confidence": 0.6488,
+    "image": "visuals/V0157_phrase.png"
+  },
+  {
+    "blind_id": "V0160",
+    "sentence": "when I could not go back to my student home because my parents would not drive me early.",
+    "predicted_emotion": "anger",
+    "confidence": 0.8344,
+    "image": "visuals/V0160_phrase.png"
+  },
+  {
+    "blind_id": "V0164",
+    "sentence": "my fiance proposed to me because I wasn't expecting it, he had led me to believe he was going to do it when we were finally able to travel again. But instead, he did it at our home on an ordinary night and had invited my friends over to be there for it who were hiding in the bathroom while it was happening.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.9521,
+    "image": "visuals/V0164_phrase.png"
+  },
+  {
+    "blind_id": "V0165",
+    "sentence": "When my daughter moved up in her swimming grade",
+    "predicted_emotion": "pride",
+    "confidence": 0.2608,
+    "image": "visuals/V0165_phrase.png"
+  },
+  {
+    "blind_id": "V0167",
+    "sentence": "i knew i had a weeks holiday coming up off work",
+    "predicted_emotion": "joy",
+    "confidence": 0.1884,
+    "image": "visuals/V0167_phrase.png"
+  },
+  {
+    "blind_id": "V0169",
+    "sentence": "I saw my daughter perform at her gymnastics show",
+    "predicted_emotion": "pride",
+    "confidence": 0.3139,
+    "image": "visuals/V0169_phrase.png"
+  },
+  {
+    "blind_id": "V0171",
+    "sentence": "A man followed me in a car",
+    "predicted_emotion": "fear",
+    "confidence": 0.9739,
+    "image": "visuals/V0171_phrase.png"
+  },
+  {
+    "blind_id": "V0172",
+    "sentence": "when I was out walking my dog as someone else was also out with their dog and let their dog approach mine without asking any questions. I was ... and angry as my dog does not like other dogs so this could have been a dangerous situation.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.2622,
+    "image": "visuals/V0172_phrase.png"
+  },
+  {
+    "blind_id": "V0174",
+    "sentence": "my child was born/because my draining 9 months of pregnancy was finally over and my baby was finally in my arms after waiting for so long",
+    "predicted_emotion": "joy",
+    "confidence": 0.9661,
+    "image": "visuals/V0174_phrase.png"
+  },
+  {
+    "blind_id": "V0175",
+    "sentence": "I felt ... when a friend verbally defended me behind my back because he could've easily just just said nothing",
+    "predicted_emotion": "trust",
+    "confidence": 0.7842,
+    "image": "visuals/V0175_phrase.png"
+  },
+  {
+    "blind_id": "V0176",
+    "sentence": "I felt ... when I had to carry out a behavioural experiment, not knowing the outcome made be ....",
+    "predicted_emotion": "fear",
+    "confidence": 0.517,
+    "image": "visuals/V0176_phrase.png"
+  },
+  {
+    "blind_id": "V0179",
+    "sentence": "when I made myself french toast for breakfast this morning",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.2594,
+    "image": "visuals/V0179_phrase.png"
+  },
+  {
+    "blind_id": "V0180",
+    "sentence": "I felt ... when I asked my coworker to cover for me and they did.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3457,
+    "image": "visuals/V0180_phrase.png"
+  },
+  {
+    "blind_id": "V0183",
+    "sentence": "my boyfriend sent me flowers and he lives in another contry",
+    "predicted_emotion": "surprise",
+    "confidence": 0.294,
+    "image": "visuals/V0183_phrase.png"
+  },
+  {
+    "blind_id": "V0184",
+    "sentence": "When my fiance kept a secret that i told him from my mother (re",
+    "predicted_emotion": "trust",
+    "confidence": 0.4533,
+    "image": "visuals/V0184_phrase.png"
+  },
+  {
+    "blind_id": "V0186",
+    "sentence": "when I let my brother have access to my bank account so that he could borrow some money.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3245,
+    "image": "visuals/V0186_phrase.png"
+  },
+  {
+    "blind_id": "V0189",
+    "sentence": "I felt ... when I attended my first AA meeting because all of the people there were so friendly and welcoming and forthcoming, sharing their experiences and stories, I felt like I could open up and that these people really cared and could help me to become the person I wanted to be.",
+    "predicted_emotion": "trust",
+    "confidence": 0.9833,
+    "image": "visuals/V0189_phrase.png"
+  },
+  {
+    "blind_id": "V0190",
+    "sentence": "my wife bought me a car on my birthday",
+    "predicted_emotion": "surprise",
+    "confidence": 0.4047,
+    "image": "visuals/V0190_phrase.png"
+  },
+  {
+    "blind_id": "V0191",
+    "sentence": "I visited the doctor because I was having symptoms of pregnancy back then in high school. the doctor confirmed I was not pregnant.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2857,
+    "image": "visuals/V0191_phrase.png"
+  },
+  {
+    "blind_id": "V0193",
+    "sentence": "When I took my son out for the day and he was so happy and excited",
+    "predicted_emotion": "joy",
+    "confidence": 0.9418,
+    "image": "visuals/V0193_phrase.png"
+  },
+  {
+    "blind_id": "V0196",
+    "sentence": "I felt ... when my daughter was taken into hospital with covid type symptoms and given 48 hrs",
+    "predicted_emotion": "fear",
+    "confidence": 0.6838,
+    "image": "visuals/V0196_phrase.png"
+  },
+  {
+    "blind_id": "V0199",
+    "sentence": "winning in bingo that i didnt expect.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.8658,
+    "image": "visuals/V0199_phrase.png"
+  },
+  {
+    "blind_id": "V0200",
+    "sentence": "I has to go into corn fields. I am ... of them",
+    "predicted_emotion": "fear",
+    "confidence": 0.7145,
+    "image": "visuals/V0200_phrase.png"
+  },
+  {
+    "blind_id": "V0204",
+    "sentence": "going into a room where I could potentially not be able to get out",
+    "predicted_emotion": "fear",
+    "confidence": 0.381,
+    "image": "visuals/V0204_phrase.png"
+  },
+  {
+    "blind_id": "V0205",
+    "sentence": "when I submitted an assessment less than an hour before the due date. I guess it was ... because up until that point I'd be very stressed, and ... is a very sudden release of that stress knowing that everything is going to be okay. I don't like that I stress over assessments and grades and leave things til last minute, but I always do, it's always ... to submit something that I wasn't enjoying doing.",
+    "predicted_emotion": "relief",
+    "confidence": 0.857,
+    "image": "visuals/V0205_phrase.png"
+  },
+  {
+    "blind_id": "V0206",
+    "sentence": "I got an email after waiting for weeks to let me know that I got into the county rugby team after trials.",
+    "predicted_emotion": "pride",
+    "confidence": 0.2643,
+    "image": "visuals/V0206_phrase.png"
+  },
+  {
+    "blind_id": "V0210",
+    "sentence": "i felt ... when the GAA final was playing",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.4133,
+    "image": "visuals/V0210_phrase.png"
+  },
+  {
+    "blind_id": "V0212",
+    "sentence": "I lost my daughter while in a large department store and then found her safe and sound",
+    "predicted_emotion": "relief",
+    "confidence": 0.9999,
+    "image": "visuals/V0212_phrase.png"
+  },
+  {
+    "blind_id": "V0213",
+    "sentence": "I began teaching piano lessons. My first class was three sisters, ages 8, 6, and 5, and they were delightful and so much fun. I've been a traditional English teacher for many years, but being able to teach something I love so much (like music) has changed my entire outlook, and it always brings me ....",
+    "predicted_emotion": "joy",
+    "confidence": 0.4005,
+    "image": "visuals/V0213_phrase.png"
+  },
+  {
+    "blind_id": "V0215",
+    "sentence": "My daughter was accepted into Cambridge university",
+    "predicted_emotion": "pride",
+    "confidence": 0.5768,
+    "image": "visuals/V0215_phrase.png"
+  },
+  {
+    "blind_id": "V0216",
+    "sentence": "When my child got picked as Joseph for the school play. so ..., done a cute job",
+    "predicted_emotion": "pride",
+    "confidence": 0.2559,
+    "image": "visuals/V0216_phrase.png"
+  },
+  {
+    "blind_id": "V0217",
+    "sentence": "My father came out of retirement to accept a job in a remote location of Canada",
+    "predicted_emotion": "surprise",
+    "confidence": 0.4586,
+    "image": "visuals/V0217_phrase.png"
+  },
+  {
+    "blind_id": "V0218",
+    "sentence": "my daughters end of year report came through during the pandemic and she was doing so well despite the difficulties and challengings during homeschooling with us all working full time from home and her being an only child.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3167,
+    "image": "visuals/V0218_phrase.png"
+  },
+  {
+    "blind_id": "V0219",
+    "sentence": "I used to feel ... when I would catch the bus into school each day. It would normally be a 5-10min wait at the bus stop alone on a somewhat busy road. I would try to resolve this ... by reading car number plates as they went past. It felt awkward to stand there on my phone, so I never used it when ....",
+    "predicted_emotion": "boredom",
+    "confidence": 0.8102,
+    "image": "visuals/V0219_phrase.png"
+  },
+  {
+    "blind_id": "V0221",
+    "sentence": "when I needed to stop at the side of the road to confirm whether or not the roadkill by my house was the body of one of my cats. I could give more details if you like, but think it is unnecessaryly graphic, suffice to say that maggots were involved.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.1929,
+    "image": "visuals/V0221_phrase.png"
+  },
+  {
+    "blind_id": "V0222",
+    "sentence": "I felt ... when I folded the laundry.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.7362,
+    "image": "visuals/V0222_phrase.png"
+  },
+  {
+    "blind_id": "V0224",
+    "sentence": "I felt ... when my family got my current dog. We had to put our first dog down (a puppy who had very progressive cancer) a few months prior, and we were all ready for another dog. The woman who had trained our puppy knew a family that was looking to give their dog to a new home. She gave the seller our information, and they came to our house with the dog to see if we would be a good family for him. My parents didn't tell my brothers and I that we were going to possibly be getting a new dog. I walked downstairs and saw this big, fluffy, black doodle. I honestly don't know if I have ever been more .... I was literally jumping up and down with .... The family ended up giving us the dog, Vinny, free of charge, and he has been the best dog ever. He and I are besties and do everything together!",
+    "predicted_emotion": "joy",
+    "confidence": 0.9983,
+    "image": "visuals/V0224_phrase.png"
+  },
+  {
+    "blind_id": "V0227",
+    "sentence": "My mother finally ended the relationship with my then step father. He was very controlling and had brain washed her into his way of thinking. It was a common occurrence to have to try and deal with the next fallout every couple of weeks. After years of stress and the situation having a negative impact on the family she finally took the decision to get away from it all. It came as a huge ... to myself when she got settled in her own place away from him.",
+    "predicted_emotion": "relief",
+    "confidence": 0.6725,
+    "image": "visuals/V0227_phrase.png"
+  },
+  {
+    "blind_id": "V0230",
+    "sentence": "I am ... of my D&D campaigns. Between myself and my friends, I am the dungeon master and designer of our tabletop games. I am ... my players enjoyed my work, they invest in the plots, feel emotion from the music and events and that they enjoy our shared story adventures",
+    "predicted_emotion": "pride",
+    "confidence": 0.2913,
+    "image": "visuals/V0230_phrase.png"
+  },
+  {
+    "blind_id": "V0231",
+    "sentence": "I am unable to buy my child something because of lack of funds in paricular a time when he needed new football shoes",
+    "predicted_emotion": "guilt",
+    "confidence": 0.2354,
+    "image": "visuals/V0231_phrase.png"
+  },
+  {
+    "blind_id": "V0233",
+    "sentence": "\"Despite severe depression & PTSD, I got a well-paying job & started college- which no one in my family had ever done- & my grandmother, who is my last remaining family member alive, didn't bother to give me even a simple \"\"Good job\"\", I'm proud of you\"\", absolutely nothing. She acts like it's nothing, & even talks down to me. I have no idea why she's always been this way towards me & it's incredibly ... & honestly hurtful.\"",
+    "predicted_emotion": "anger",
+    "confidence": 0.8402,
+    "image": "visuals/V0233_phrase.png"
+  },
+  {
+    "blind_id": "V0235",
+    "sentence": "I felt ... when someone reached out to me to let me know that justice had occurred in my previous place of employment and that my working directly with HR had made a positive impact because he and I had talked previously about it. He had shared with me that he was trying and failing to work on the problem person so that he would change how he was treating others. Furthermore, this person talked to me about how he had changed for the better - the hard work that he had put into it and why he was the way he was before. I was directly impacted by the ways that he had changed positively. When he told me what had happened, and that this other person had been demoted, I felt elated for him and his team, and I ... him more.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3758,
+    "image": "visuals/V0235_phrase.png"
+  },
+  {
+    "blind_id": "V0236",
+    "sentence": "my son first learnt how to crawl",
+    "predicted_emotion": "pride",
+    "confidence": 0.6083,
+    "image": "visuals/V0236_phrase.png"
+  },
+  {
+    "blind_id": "V0237",
+    "sentence": "I was about 8 years old watching a black cat owned by another kid from my school.  It was near the house I lived in then, he was peeing on a neighbor's front lawn.  It wasn't particularly interesting or thought provoking, but for some inexplicable reason I decided to myself that I would remember this moment.  I still do to this day.  I don't know why, kids are weird sometimes.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.3788,
+    "image": "visuals/V0237_phrase.png"
+  },
+  {
+    "blind_id": "V0239",
+    "sentence": "when I found a spider in my bathroom",
+    "predicted_emotion": "fear",
+    "confidence": 0.3863,
+    "image": "visuals/V0239_phrase.png"
+  },
+  {
+    "blind_id": "V0240",
+    "sentence": "I heard someone walking up my stairs when I was in bed, it turned out it was my brother but it really ... me at the time",
+    "predicted_emotion": "fear",
+    "confidence": 0.436,
+    "image": "visuals/V0240_phrase.png"
+  },
+  {
+    "blind_id": "V0241",
+    "sentence": "covid19 happened globally",
+    "predicted_emotion": "surprise",
+    "confidence": 0.4068,
+    "image": "visuals/V0241_phrase.png"
+  },
+  {
+    "blind_id": "V0242",
+    "sentence": "My home insurance company messed up my insurance claim",
+    "predicted_emotion": "anger",
+    "confidence": 0.9635,
+    "image": "visuals/V0242_phrase.png"
+  },
+  {
+    "blind_id": "V0244",
+    "sentence": "my house sold. My husband and I decided to sell our house last year. It was a hard year for us. He finished his contract at the military and we really hadn't planned for the transition. Due to some circumstances this transition happened sooner than expected. We decided the best thing to do was move to another state to pursue an opportunity. I was really nervous about selling a house during a pandemic, even if the market and interest rates were the best they ever were. I just didn't think someone would want our house or that it wouldn't sell that quick. It sold in 4 days. We received multiple overs and I never imagined having that much profit only having a mortgage for 2 years.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2463,
+    "image": "visuals/V0244_phrase.png"
+  },
+  {
+    "blind_id": "V0245",
+    "sentence": "I felt ... when I was able to move away from an awful area and into a place with my partner. For context I was living in a horrible area and was searching for ages to move and not able to find anywhere. A house I did not think I was going to get accept my details unexpectedly and I was able to leave.",
+    "predicted_emotion": "relief",
+    "confidence": 0.9996,
+    "image": "visuals/V0245_phrase.png"
+  },
+  {
+    "blind_id": "V0248",
+    "sentence": "i was furloughed last year  -really ... of not being able to pay my mortgage",
+    "predicted_emotion": "fear",
+    "confidence": 0.4702,
+    "image": "visuals/V0248_phrase.png"
+  },
+  {
+    "blind_id": "V0250",
+    "sentence": "My car was hit by a drunk driver and because it's an older car we were pretty sure it would be totaled even though the damage was only cosmetic. It was totaled but his insurance let us take the car back and gave a couple grand for when we get a new car. It was a ... to be able to get the car back because I don't have another one yet.",
+    "predicted_emotion": "relief",
+    "confidence": 0.6296,
+    "image": "visuals/V0250_phrase.png"
+  },
+  {
+    "blind_id": "V0252",
+    "sentence": "my husband is always there for me and i can ... that no matter what he will be there for our child and do what ittakes to provide for us as a family",
+    "predicted_emotion": "trust",
+    "confidence": 0.999,
+    "image": "visuals/V0252_phrase.png"
+  },
+  {
+    "blind_id": "V0254",
+    "sentence": "One prominent time that sticks out in my mind as when I felt ..., my hours at work were cut drastically because of COVID, and I was very ... that I wouldn\u2019t be able to pay my bills and make ends meet.",
+    "predicted_emotion": "fear",
+    "confidence": 0.3529,
+    "image": "visuals/V0254_phrase.png"
+  },
+  {
+    "blind_id": "V0258",
+    "sentence": "My dad loves to go fishing, but he usually doesn't invite me to go with him because it's something he always did with his Dad and know he does with my brother as its always been classes as a boys bonding trip. So they day I (a female) asked to go and he said yes was a great surprise to me. I had never been fishing before and expected to be pathetic at it. We were fishing in a pond full of small fish (there's a seperate one where you had to pay to fish the larger fish). An hour into our day and my fishing rod nearly snaps with the weight of the fish on the line!! Seeing my dads face light up with surprise and seeing how impressed he was at me brought me great ...! He helped me reel it in and we took a picture. its a really good memory for me.",
+    "predicted_emotion": "joy",
+    "confidence": 0.5183,
+    "image": "visuals/V0258_phrase.png"
+  },
+  {
+    "blind_id": "V0261",
+    "sentence": "I travelled to Disney world in Florida with my family because it had been a life long dream and we enjoyed every second.",
+    "predicted_emotion": "joy",
+    "confidence": 1.0,
+    "image": "visuals/V0261_phrase.png"
+  },
+  {
+    "blind_id": "V0263",
+    "sentence": "When my 1 year-old son was in his swing in our back yard and he flung himself forward towards a ball in front of him. He managed to tip himself right over, which we didn't realize was possible as the swing was designed for children his age, and he nearly to the ground onto his head but luckily I was a few feet away and was able to catch him.",
+    "predicted_emotion": "relief",
+    "confidence": 0.6388,
+    "image": "visuals/V0263_phrase.png"
+  },
+  {
+    "blind_id": "V0264",
+    "sentence": "When I finally finished moving out of my apartment into my new place",
+    "predicted_emotion": "relief",
+    "confidence": 0.9979,
+    "image": "visuals/V0264_phrase.png"
+  },
+  {
+    "blind_id": "V0268",
+    "sentence": "My child was not doing as told and arguing with me",
+    "predicted_emotion": "anger",
+    "confidence": 0.9997,
+    "image": "visuals/V0268_phrase.png"
+  },
+  {
+    "blind_id": "V0269",
+    "sentence": "My girlfriend got pregnant. I didn't even know if I should be angry or be happy. Everytime I remember the scenario I just laugh off",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.5046,
+    "image": "visuals/V0269_phrase.png"
+  },
+  {
+    "blind_id": "V0271",
+    "sentence": "A work colleague told me a secret about another associate, because she ... I wouldn't spread the news around nor would I tell the colleague that I knew. I agreed I would not tell, that she could ... me and I felt pride that she could tell me. I did keep the secret until the colleague the news was about, informed the rest of the workplace of her pregnancy.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3939,
+    "image": "visuals/V0271_phrase.png"
+  },
+  {
+    "blind_id": "V0273",
+    "sentence": "\"My 4 year old son had just started school and was being a 'pickle'. We had been having a tricky morning with him not listening and general difficult behaviours. I had planned for us to go to a street festival in town. My partner arrived and we set out, but my son was still not in a good place.  As we left the flat my son became annoyed, and ran in the other direction.  My partner said \"\"I'll get him\"\", I waited but they did not return, I rang my partner, he said \"\"he just run into the road!\"\" I ran as fast as I could, but could not find them (there were lots of adjoining streets).  Then my partner called, he had my son, he was safe, and we reunited. I felt such a sense of ... that he was safe. Utterly overwhelming, and I picked him up and held him tight, and cried a little.\"",
+    "predicted_emotion": "relief",
+    "confidence": 1.0,
+    "image": "visuals/V0273_phrase.png"
+  },
+  {
+    "blind_id": "V0274",
+    "sentence": "I have to stand up in front of a large group of important people and give training",
+    "predicted_emotion": "fear",
+    "confidence": 0.2491,
+    "image": "visuals/V0274_phrase.png"
+  },
+  {
+    "blind_id": "V0277",
+    "sentence": "I was biking and a car came out and I had to slam my breaks almost flipping over the handlebars straight into the cars path",
+    "predicted_emotion": "fear",
+    "confidence": 0.9995,
+    "image": "visuals/V0277_phrase.png"
+  },
+  {
+    "blind_id": "V0278",
+    "sentence": "I felt ... walking down the street when I saw a man stealing license plates off of cars.",
+    "predicted_emotion": "fear",
+    "confidence": 0.3237,
+    "image": "visuals/V0278_phrase.png"
+  },
+  {
+    "blind_id": "V0280",
+    "sentence": "I felt ... when my mom told me she has cancer while I was away from home was not able to be there to support her or be near her.",
+    "predicted_emotion": "sadness",
+    "confidence": 1.0,
+    "image": "visuals/V0280_phrase.png"
+  },
+  {
+    "blind_id": "V0283",
+    "sentence": "because I get to answer emails at work and I'm good at it, and better at it than others. I answer lots of emails and always have people who are happy for my help. I've had to correct/help coworkers before and it makes me feel ... to know more than them.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3414,
+    "image": "visuals/V0283_phrase.png"
+  },
+  {
+    "blind_id": "V0285",
+    "sentence": "a child was sent to my childrens school with covid",
+    "predicted_emotion": "disgust",
+    "confidence": 0.2752,
+    "image": "visuals/V0285_phrase.png"
+  },
+  {
+    "blind_id": "V0289",
+    "sentence": "I got the all clear from a health test",
+    "predicted_emotion": "relief",
+    "confidence": 0.5433,
+    "image": "visuals/V0289_phrase.png"
+  },
+  {
+    "blind_id": "V0290",
+    "sentence": "I was having an argument with my dad as I felt he was being irrational.",
+    "predicted_emotion": "anger",
+    "confidence": 0.9948,
+    "image": "visuals/V0290_phrase.png"
+  },
+  {
+    "blind_id": "V0293",
+    "sentence": "WHEN I WENT AND GOT MY G.E,D.",
+    "predicted_emotion": "pride",
+    "confidence": 0.8771,
+    "image": "visuals/V0293_phrase.png"
+  },
+  {
+    "blind_id": "V0296",
+    "sentence": "I felt ... when my friend stood up for me against someone and she didn't need to be told do. She stood up for me automatically and that's when I knew she was someone I could ....",
+    "predicted_emotion": "trust",
+    "confidence": 0.3442,
+    "image": "visuals/V0296_phrase.png"
+  },
+  {
+    "blind_id": "V0298",
+    "sentence": "my 10 year old dog died",
+    "predicted_emotion": "sadness",
+    "confidence": 0.674,
+    "image": "visuals/V0298_phrase.png"
+  },
+  {
+    "blind_id": "V0299",
+    "sentence": "I felt ... when my friends and acquaintances complimented my long-term relationship with my boyfriend. It felt good receiving that type of (positive) attention and  also boosted my ... a bit for being able to have my first relationship last so long. For reference, my boyfriend and I are both 21 and have been dating for over 6.5 years.",
+    "predicted_emotion": "pride",
+    "confidence": 0.2724,
+    "image": "visuals/V0299_phrase.png"
+  },
+  {
+    "blind_id": "V0300",
+    "sentence": "I felt ... when I was stuck at home with nothing to do. I got into a car crash a couple years ago and did not have any transportation so I was stuck at home for a while. Sometimes my friends would visit which was fun, but when everyone was busy and I had nowhere to go I was extremely ... because I felt stuck with nothing to do.",
+    "predicted_emotion": "boredom",
+    "confidence": 0.9643,
+    "image": "visuals/V0300_phrase.png"
+  },
+  {
+    "blind_id": "V0301",
+    "sentence": "I felt ... when my dad told me he was moving further away because everyone else in my family had also moved away and it makes me feel very ... and alone, and knowing that another family member was moving even farther away really brought out the ... I had been repressing about it all.",
+    "predicted_emotion": "sadness",
+    "confidence": 0.2571,
+    "image": "visuals/V0301_phrase.png"
+  },
+  {
+    "blind_id": "V0304",
+    "sentence": "I felt ... when I was sitting inside my communication class. I felt this way because of the professor's monotone voice and the topic. This is a required class and has nothing to do with my major. He also has the lights dimmed and everyone is very quiet during class so it is easy to just sit the and feel ....",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7232,
+    "image": "visuals/V0304_phrase.png"
+  },
+  {
+    "blind_id": "V0306",
+    "sentence": "I felt ... when my relationship with my spouse took a turn for the worst and we were apart but she still cared and loved me even after i hurt her",
+    "predicted_emotion": "trust",
+    "confidence": 0.3304,
+    "image": "visuals/V0306_phrase.png"
+  },
+  {
+    "blind_id": "V0307",
+    "sentence": "I walked up to the woods with an old friend and we reconnected while spending time in nature, we had interesting and emotional conversations and saw a deer!",
+    "predicted_emotion": "joy",
+    "confidence": 0.7261,
+    "image": "visuals/V0307_phrase.png"
+  },
+  {
+    "blind_id": "V0308",
+    "sentence": "the result of the UK referendum re remaining/leaving the EU was announced.  I had voted to remain in the EU, and everyone I worked or socialised with voted the same, so incorrectly assumed that the majority of the UK had voted similiarly.  I was very ... (and disappointed!) when the results came back as leave.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.6167,
+    "image": "visuals/V0308_phrase.png"
+  },
+  {
+    "blind_id": "V0310",
+    "sentence": "I felt ... when I organised, managed and played in an ice hockey varsity game. It had never been done before and the team was in financial trouble and I saw it as a great opportunity to make some money for the club and also to give the team and sport some exposure. It took a lot to get other members on the team to buy in but eventually they did. On the night of the game we made \u00a31700 for the team and wider club which helped pay for a lot of different things. Not only that but over the following years the game just got bigger and bigger each year with the game eventually being played in front of 3000 people. It gave me immense ... to have this initial idea for it to grow into a great spectator event, but also a game that the guy who took part in it will remember for the rest of their lives.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3443,
+    "image": "visuals/V0310_phrase.png"
+  },
+  {
+    "blind_id": "V0312",
+    "sentence": "I felt ... when we went to a restaurant in London, and asked for steak done to a particular level, the waiter came out and advised that the steak had not been cooked to his satisfaction, so asked for the steak to be redone, it was at this point that we realised we could fully ... that we were going to get exactly what we had asked for.",
+    "predicted_emotion": "trust",
+    "confidence": 0.2781,
+    "image": "visuals/V0312_phrase.png"
+  },
+  {
+    "blind_id": "V0313",
+    "sentence": "after waiting for years, fighting the paperwork bureaucracy and continuously being followed and treated poorly and continuously going to see all kinds of specialists, I FINALLY received approval for disability assistance. Prior to this, I was unable to work but had no financial support whatsoever. I had been a graduate student when I first fell ill (and thus already a low-income individual).",
+    "predicted_emotion": "relief",
+    "confidence": 0.8308,
+    "image": "visuals/V0313_phrase.png"
+  },
+  {
+    "blind_id": "V0314",
+    "sentence": "Being walked home from a night out, as a single female, by a close male friend that I fully ....",
+    "predicted_emotion": "trust",
+    "confidence": 0.202,
+    "image": "visuals/V0314_phrase.png"
+  },
+  {
+    "blind_id": "V0315",
+    "sentence": "I let people in myHome",
+    "predicted_emotion": "trust",
+    "confidence": 0.684,
+    "image": "visuals/V0315_phrase.png"
+  },
+  {
+    "blind_id": "V0318",
+    "sentence": "I felt ... when I thought I had COVID-19 a few days ago",
+    "predicted_emotion": "fear",
+    "confidence": 0.6477,
+    "image": "visuals/V0318_phrase.png"
+  },
+  {
+    "blind_id": "V0321",
+    "sentence": "my grandad passed away",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9952,
+    "image": "visuals/V0321_phrase.png"
+  },
+  {
+    "blind_id": "V0322",
+    "sentence": "a granparent died",
+    "predicted_emotion": "anger",
+    "confidence": 0.3873,
+    "image": "visuals/V0322_phrase.png"
+  },
+  {
+    "blind_id": "V0325",
+    "sentence": "i went ... when i was on the tube with my boyfriend and a group of rowdy boys were threatening to attack and stab him",
+    "predicted_emotion": "fear",
+    "confidence": 0.3849,
+    "image": "visuals/V0325_phrase.png"
+  },
+  {
+    "blind_id": "V0327",
+    "sentence": "I bought my first car because it made me feel independent.",
+    "predicted_emotion": "joy",
+    "confidence": 0.3036,
+    "image": "visuals/V0327_phrase.png"
+  },
+  {
+    "blind_id": "V0328",
+    "sentence": "when i seen my partner for the first ime because we were doing long distance",
+    "predicted_emotion": "joy",
+    "confidence": 0.29,
+    "image": "visuals/V0328_phrase.png"
+  },
+  {
+    "blind_id": "V0329",
+    "sentence": "I started a new job as a manager, and on one of my first days I joined a meeting where one of my team members got very upset and stressed about work and I got ... that so soon into the role I wouldn't be able to handle the situation going forward",
+    "predicted_emotion": "fear",
+    "confidence": 0.9927,
+    "image": "visuals/V0329_phrase.png"
+  },
+  {
+    "blind_id": "V0331",
+    "sentence": "I felt ... when my cat died because it was unexpected and I loved her",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9983,
+    "image": "visuals/V0331_phrase.png"
+  },
+  {
+    "blind_id": "V0333",
+    "sentence": "I became chartered",
+    "predicted_emotion": "pride",
+    "confidence": 0.223,
+    "image": "visuals/V0333_phrase.png"
+  },
+  {
+    "blind_id": "V0334",
+    "sentence": "my children were born as I have always wanted children.",
+    "predicted_emotion": "joy",
+    "confidence": 0.3786,
+    "image": "visuals/V0334_phrase.png"
+  },
+  {
+    "blind_id": "V0337",
+    "sentence": "another parent at school wrongly accused my child of saying/doing something that he didn't do. This was not the first time, in fact it had gone on for about two years and this time was the final straw. It was time for me to stick up for my child and put a stop to it once and for all. My child was a target i guess, we had concerns over autism/adhd and this parent really took advantage of that. On this occasion, it was a Friday afternoon and the teacher asked to speak with me, so in i went. I knew it was serious as the Deputy head was also there. They explained that my child (year 3) had told a reception kid that his grandad was going to bring a gun to school (now bear in mind that this parent also knows that we (my husband) has a shotgun licence) and that her child was scared. This was also not the first time that she had made reference to my child and guns at school. I sat, i listened and i thought, its not really my childs style. I asked when this was said and i was told it was said over the xbox. I asked if this was by message or speaking on the mic and the teacher confirmed it was over the mic. This is where i knew that this was not right as my child headset was broken and he was unable to talk to people unless he sent a message! The ... rose up inside me. This parent lives right next to the school and when i left i was so ... that i went to confront and started banging on the door (not like me at all). She wasn't in and in hindsight it was probably a good thing she wasn't in! I was so ... that afternoon that i really dont know what i would have done if she answered as ... had just consumed me. I went home and spoke with my child and he completely denied the allegations and i believed him. I was seething all weekend and by the Monday she contacted me and asked if we could sort things out. Long story short, she admitted that it was a case of he said, she said, Ben said and that she had not hear the words come out of his mouth. This was 6 years ago and still to this day i can not forgive all that she put my child through.",
+    "predicted_emotion": "anger",
+    "confidence": 0.839,
+    "image": "visuals/V0337_phrase.png"
+  },
+  {
+    "blind_id": "V0340",
+    "sentence": "My car was hit by a drunk driver and because it's an older car we were pretty sure it would be totaled even though the damage was only cosmetic. It was totaled but his insurance let us take the car back and gave a couple grand for when we get a new car. It was a ... to be able to get the car back because I don't have another one yet.",
+    "predicted_emotion": "relief",
+    "confidence": 0.9983,
+    "image": "visuals/V0340_phrase.png"
+  },
+  {
+    "blind_id": "V0341",
+    "sentence": "Moving into my own home with my son after experiencing lots of very difficult things in the preceeding years including baby loss, domestic abuse and homelessness.",
+    "predicted_emotion": "joy",
+    "confidence": 0.4208,
+    "image": "visuals/V0341_phrase.png"
+  },
+  {
+    "blind_id": "V0344",
+    "sentence": "my dad got very very sick all of a sudden without any knowledge of what was wrong with him, he was immediately admitted into the hospital. My ... was that the doctors were not going to be able to find out what was wrong with my dad while his health was declining. I was ... that they would not be able to help him in any way.",
+    "predicted_emotion": "fear",
+    "confidence": 0.6529,
+    "image": "visuals/V0344_phrase.png"
+  },
+  {
+    "blind_id": "V0345",
+    "sentence": "I felt a great amount of ... when I was younger and I lied to my parents because I had knowledge of some boys that I knew did something wrong and there were efforts to find out who did those things and bring those boys to task, but I never said anything about them.  Later, my mom had found out that I did know about the boys and she had not necessarily yelled but spoke harshly to me about the circumstance and that had stayed with me for the rest of my life up to this point and that was like 22 years ago",
+    "predicted_emotion": "shame",
+    "confidence": 0.4601,
+    "image": "visuals/V0345_phrase.png"
+  },
+  {
+    "blind_id": "V0351",
+    "sentence": "I got invited to a work meeting but got ignored the whole time and they spoke about things that I didn't understand or have any involvement in for over an hour",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7734,
+    "image": "visuals/V0351_phrase.png"
+  },
+  {
+    "blind_id": "V0353",
+    "sentence": "When I met a celebrity",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2696,
+    "image": "visuals/V0353_phrase.png"
+  },
+  {
+    "blind_id": "V0355",
+    "sentence": "because I get to answer emails at work and I'm good at it, and better at it than others. I answer lots of emails and always have people who are happy for my help. I've had to correct/help coworkers before and it makes me feel ... to know more than them.",
+    "predicted_emotion": "pride",
+    "confidence": 0.9998,
+    "image": "visuals/V0355_phrase.png"
+  },
+  {
+    "blind_id": "V0360",
+    "sentence": "I felt ... when my husband and I closed our first house purchase. It was also a very stressful experience but once all was said and done, it was a huge relief and a ... occasion.",
+    "predicted_emotion": "joy",
+    "confidence": 0.6876,
+    "image": "visuals/V0360_phrase.png"
+  },
+  {
+    "blind_id": "V0363",
+    "sentence": "When I skydived out of a plane in New Zealand, I felt real ... and ....",
+    "predicted_emotion": "joy",
+    "confidence": 0.4481,
+    "image": "visuals/V0363_phrase.png"
+  },
+  {
+    "blind_id": "V0364",
+    "sentence": "my peers admired my artwork.",
+    "predicted_emotion": "pride",
+    "confidence": 0.7273,
+    "image": "visuals/V0364_phrase.png"
+  },
+  {
+    "blind_id": "V0365",
+    "sentence": "I felt ... when I came home and my friend had flowers delivered for me.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.5971,
+    "image": "visuals/V0365_phrase.png"
+  },
+  {
+    "blind_id": "V0366",
+    "sentence": "my husband and I went on our first vacation without the children!",
+    "predicted_emotion": "joy",
+    "confidence": 0.7172,
+    "image": "visuals/V0366_phrase.png"
+  },
+  {
+    "blind_id": "V0367",
+    "sentence": "i felt ... when i had to open up to a close friend about my health. i struggle to ... people in day to day life but needed someone to talk to. she was there with a listing ear and the relief from opening up and ... someone was a weight lifted. its helped me to have ... in more people and realise there is more good people in life than there is bad",
+    "predicted_emotion": "trust",
+    "confidence": 0.8406,
+    "image": "visuals/V0367_phrase.png"
+  },
+  {
+    "blind_id": "V0369",
+    "sentence": "when my son came home from schoool",
+    "predicted_emotion": "joy",
+    "confidence": 0.8542,
+    "image": "visuals/V0369_phrase.png"
+  },
+  {
+    "blind_id": "V0371",
+    "sentence": "I felt ... when I was in a public place during the coronavirus pandemic",
+    "predicted_emotion": "fear",
+    "confidence": 0.376,
+    "image": "visuals/V0371_phrase.png"
+  },
+  {
+    "blind_id": "V0372",
+    "sentence": "I feel ... when people judge people without getting to know them. I see this often in my job as I work with homeless people and they are often preconceived as waste of spaces from many people. A key event was when I was taking one of these people to an appointment and the person that was leading the appointment looked down their nose at the client.",
+    "predicted_emotion": "anger",
+    "confidence": 0.8957,
+    "image": "visuals/V0372_phrase.png"
+  },
+  {
+    "blind_id": "V0374",
+    "sentence": "My friend collapsed in a night club",
+    "predicted_emotion": "fear",
+    "confidence": 0.3454,
+    "image": "visuals/V0374_phrase.png"
+  },
+  {
+    "blind_id": "V0375",
+    "sentence": "I visited my grandparents house and discovered it was filthy",
+    "predicted_emotion": "disgust",
+    "confidence": 0.9999,
+    "image": "visuals/V0375_phrase.png"
+  },
+  {
+    "blind_id": "V0378",
+    "sentence": "My friend came back and showed me i can ... him.",
+    "predicted_emotion": "trust",
+    "confidence": 0.5077,
+    "image": "visuals/V0378_phrase.png"
+  },
+  {
+    "blind_id": "V0379",
+    "sentence": "in my childhood home my kitchen led on to my bathroom, with the fridge located just behind the door that led into the bathroom. One time when I was aged 7 or 8, in the middle of the night I was thirsty so I went downstairs to get a drink from the fridge. I knew my father was up and he was using the toilet in the bathroom in the next room. As I shut the fridge after I had got the juice out, my dad was finished in the bathroom and opened the door. He must have heard the fridge shut, but because of the layout of the kitchen, I was hidden behind the door. (me and my dad were stood side by side but the open door was in between us if that makes sense). Everything fell silent and the next thing I know my dad has swung a fist around the door and abruptly stopped when he realised it was me in the kitchen, not a burglar that had got caught hiding! I dropped my juice on the floor out of absolute ... of my 40 year old dad punching me in the face!",
+    "predicted_emotion": "fear",
+    "confidence": 0.4148,
+    "image": "visuals/V0379_phrase.png"
+  },
+  {
+    "blind_id": "V0381",
+    "sentence": "I felt ... when I thought I had covid-19 and would miss out on valuable school clinic time but the test came back negative",
+    "predicted_emotion": "relief",
+    "confidence": 0.1874,
+    "image": "visuals/V0381_phrase.png"
+  },
+  {
+    "blind_id": "V0382",
+    "sentence": "My boyfriend got me an Apple Watch for my birthday",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2567,
+    "image": "visuals/V0382_phrase.png"
+  },
+  {
+    "blind_id": "V0383",
+    "sentence": "when i found out someone was preganent",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2711,
+    "image": "visuals/V0383_phrase.png"
+  },
+  {
+    "blind_id": "V0385",
+    "sentence": "I was playing my Nintendo switch game",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.4043,
+    "image": "visuals/V0385_phrase.png"
+  },
+  {
+    "blind_id": "V0386",
+    "sentence": "When my niece was born because she was the first baby born that was close to me",
+    "predicted_emotion": "joy",
+    "confidence": 0.2693,
+    "image": "visuals/V0386_phrase.png"
+  },
+  {
+    "blind_id": "V0387",
+    "sentence": "i was trying to get petrol and was down to 9 miles before i ran out the cloest petrol station was closed and i drove on to the next one and waited ina 20 minuet que the whole time shaking as i was ... that i would run out of petrol and stop.",
+    "predicted_emotion": "fear",
+    "confidence": 0.9376,
+    "image": "visuals/V0387_phrase.png"
+  },
+  {
+    "blind_id": "V0389",
+    "sentence": "Having my Covid-19 jab, because it was something that needed to be done. Felt I couldn't have ... about this",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.5493,
+    "image": "visuals/V0389_phrase.png"
+  },
+  {
+    "blind_id": "V0390",
+    "sentence": "I felt ... when my partner put their arms around me at a concert and started to dance with me to a song we listen to.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2905,
+    "image": "visuals/V0390_phrase.png"
+  },
+  {
+    "blind_id": "V0392",
+    "sentence": "i was walking home from work late, i worked at a bar and i used to not finish work till 4am my house was 15 mins walk from my work. I would feel ... when someone was walking towards me that late at night. or a specific night when a car drove by slow then u -turned and came back down slowly i felt very ...",
+    "predicted_emotion": "fear",
+    "confidence": 0.9335,
+    "image": "visuals/V0392_phrase.png"
+  },
+  {
+    "blind_id": "V0393",
+    "sentence": "travelled to the east coast of Canada and saw the huge atlantic ocean from the other side (I live in uk)",
+    "predicted_emotion": "joy",
+    "confidence": 0.5713,
+    "image": "visuals/V0393_phrase.png"
+  },
+  {
+    "blind_id": "V0396",
+    "sentence": "I felt ... when I slept with someone I shouldn\u2019t of",
+    "predicted_emotion": "guilt",
+    "confidence": 0.2509,
+    "image": "visuals/V0396_phrase.png"
+  },
+  {
+    "blind_id": "V0397",
+    "sentence": "I felt ... when I was very broke and I needed some money to pay for a particular bill that came up unexpected. My car engine broke down and I wasn't expecting such situation to happen initially, but the situation happened at a time when I had no money.But at the end of the day, my close friend loaned me some money to fix the problem, so i was well ....",
+    "predicted_emotion": "relief",
+    "confidence": 0.1717,
+    "image": "visuals/V0397_phrase.png"
+  },
+  {
+    "blind_id": "V0398",
+    "sentence": "I felt ... when I won honor marcher in the band my senior year because I had taken two years away from band and I worked so hard for weeks over the summer to relearn an instrument after two years and learn the show and the first honor marcher of the season is judged over a long period of time while others are only judged for a week so I had to impress my directors for a long time and not just one week. It was so awesome to get my name announced in front of the whole football stadium and my dad and other family members were really proud of me and I usually don't ever get to do anything to make them proud of me like that",
+    "predicted_emotion": "pride",
+    "confidence": 0.4057,
+    "image": "visuals/V0398_phrase.png"
+  },
+  {
+    "blind_id": "V0399",
+    "sentence": "I felt ... when I received the money that I lended to them",
+    "predicted_emotion": "trust",
+    "confidence": 0.266,
+    "image": "visuals/V0399_phrase.png"
+  },
+  {
+    "blind_id": "V0401",
+    "sentence": "played basketball with my friend because I do not love but do not dislike sports.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.1575,
+    "image": "visuals/V0401_phrase.png"
+  },
+  {
+    "blind_id": "V0404",
+    "sentence": "at work, i made an extreme lapse in judgement which led me to fear being fired. however, i was amazed to learn that i was not going to be fired for this event. i have never felt the feeling of ... as strong as this.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2682,
+    "image": "visuals/V0404_phrase.png"
+  },
+  {
+    "blind_id": "V0405",
+    "sentence": "I felt ... when I was able to get out of my toxic household because I was finally given a sense of relief and freedom. I was now living for myself and focusing on me.",
+    "predicted_emotion": "pride",
+    "confidence": 0.2723,
+    "image": "visuals/V0405_phrase.png"
+  },
+  {
+    "blind_id": "V0407",
+    "sentence": "I felt ... when I falsely accused my wife of stealing my money when in actuality, I forgot where I had dropped it. It was after I had accused he wrongly I found it and ... filled my heart.",
+    "predicted_emotion": "shame",
+    "confidence": 0.2428,
+    "image": "visuals/V0407_phrase.png"
+  },
+  {
+    "blind_id": "V0409",
+    "sentence": "I felt ... with my ex partner when I was giving birth to my babies, when I was at my most vulnerable, in pain, scared and emotional he cared, he helped me cope, he let me ... him to cafe.",
+    "predicted_emotion": "trust",
+    "confidence": 0.5037,
+    "image": "visuals/V0409_phrase.png"
+  },
+  {
+    "blind_id": "V0410",
+    "sentence": "I felt ... because I needed someone to look after my kitten (9 months old) while I was on holiday for a week. Because he's a cat, I needed to give my friend (who I haven't known that long) they keys to my home to allow him to come in and out twice a day to check on and feed the cat. I had to ... him or I couldn't have gone on holiday and he was so great, I ... him to do a good job (for free) and he sent me photos of our cat every day and the cat seemed happy and well-fed on our return.",
+    "predicted_emotion": "trust",
+    "confidence": 0.9567,
+    "image": "visuals/V0410_phrase.png"
+  },
+  {
+    "blind_id": "V0411",
+    "sentence": "I attended a social event for the first time as a single women following a divorce",
+    "predicted_emotion": "pride",
+    "confidence": 0.2975,
+    "image": "visuals/V0411_phrase.png"
+  },
+  {
+    "blind_id": "V0412",
+    "sentence": "I witnessed huge queues outside petrol stations during a petrol shortage.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.3135,
+    "image": "visuals/V0412_phrase.png"
+  },
+  {
+    "blind_id": "V0415",
+    "sentence": "my friend said something offensive to me, I voiced that I was hurt, and he invalidated my feelings.",
+    "predicted_emotion": "anger",
+    "confidence": 0.9341,
+    "image": "visuals/V0415_phrase.png"
+  },
+  {
+    "blind_id": "V0417",
+    "sentence": "I realised that I could no longer progress or learn anything new in my place of work. I felt static and all my actions felt worthless.",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7142,
+    "image": "visuals/V0417_phrase.png"
+  },
+  {
+    "blind_id": "V0418",
+    "sentence": "my wife was pregnant for the first time, this really was a big ... because we were trying to have a baby for long time, visiting many doctors and neraly giving up hope, however when my wife was preganant for the first time I was ... and so happy.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2609,
+    "image": "visuals/V0418_phrase.png"
+  },
+  {
+    "blind_id": "V0419",
+    "sentence": "I felt ... when my parents returned back to my college to help me move in because I knew they'd always be there.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3377,
+    "image": "visuals/V0419_phrase.png"
+  },
+  {
+    "blind_id": "V0421",
+    "sentence": "When I lost my job last week",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9999,
+    "image": "visuals/V0421_phrase.png"
+  },
+  {
+    "blind_id": "V0423",
+    "sentence": "I found out of a family member\u2019s affair",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2097,
+    "image": "visuals/V0423_phrase.png"
+  },
+  {
+    "blind_id": "V0424",
+    "sentence": "When I bought my dream home, I grew up in a small home with a hard working single mum and never thought I'd be in a position where I could buy such a big and beautiful home, I feel very ... of how far I've come",
+    "predicted_emotion": "pride",
+    "confidence": 0.2783,
+    "image": "visuals/V0424_phrase.png"
+  },
+  {
+    "blind_id": "V0425",
+    "sentence": "I felt ... when I was promoted to manager in a vacation club in Dominican republic, I had worked so hard 7 days a week for months to get that promotion and I got it. I was ... of myself for that.",
+    "predicted_emotion": "pride",
+    "confidence": 0.9947,
+    "image": "visuals/V0425_phrase.png"
+  },
+  {
+    "blind_id": "V0429",
+    "sentence": "i felt ... when a guy said hes interested in me and wants a relationship because this doesn't tend to happen to me often especially since i gained a bunch of weight recently",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2825,
+    "image": "visuals/V0429_phrase.png"
+  },
+  {
+    "blind_id": "V0431",
+    "sentence": "i was trying to get petrol and was down to 9 miles before i ran out the cloest petrol station was closed and i drove on to the next one and waited ina 20 minuet que the whole time shaking as i was ... that i would run out of petrol and stop.",
+    "predicted_emotion": "fear",
+    "confidence": 0.9884,
+    "image": "visuals/V0431_phrase.png"
+  },
+  {
+    "blind_id": "V0433",
+    "sentence": "Myself, my husband and my son arrived at our holiday destination which was a cottage in Cornwall",
+    "predicted_emotion": "joy",
+    "confidence": 0.9792,
+    "image": "visuals/V0433_phrase.png"
+  },
+  {
+    "blind_id": "V0434",
+    "sentence": "I was at work yesterday because it was a fairly regular day and I was mostly running on auto pilot. Nothing stands out but it was not boring, just a steady day.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.4422,
+    "image": "visuals/V0434_phrase.png"
+  },
+  {
+    "blind_id": "V0436",
+    "sentence": "One moment I felt ... was when I was an NCO in my cadets squadron, and I was issuing commands to the new recruits. Being able to be in such a position made me feel immense personal growth and responsibility.",
+    "predicted_emotion": "pride",
+    "confidence": 0.2815,
+    "image": "visuals/V0436_phrase.png"
+  },
+  {
+    "blind_id": "V0438",
+    "sentence": "I found out my Aunt had passed away from covid at the beginning of the year. She spent chrstmas day with her daughter, son in law and their kids however caught covid over christmas dinner. Within a week she had gone from being completely healthy and fit to being rushed to hospital. We received a text message from the family one afternoon early January to say she had been admitted to hospital with covid, within 24 hours she had gone onto a ventilator and ... passed away.",
+    "predicted_emotion": "sadness",
+    "confidence": 1.0,
+    "image": "visuals/V0438_phrase.png"
+  },
+  {
+    "blind_id": "V0440",
+    "sentence": "my son came home with a headteacher's certificate from school for having a positive attitude and being kind",
+    "predicted_emotion": "pride",
+    "confidence": 0.7548,
+    "image": "visuals/V0440_phrase.png"
+  },
+  {
+    "blind_id": "V0442",
+    "sentence": "I felt ... when my dog was getting sick because he's my security blanket.",
+    "predicted_emotion": "fear",
+    "confidence": 0.2474,
+    "image": "visuals/V0442_phrase.png"
+  },
+  {
+    "blind_id": "V0447",
+    "sentence": "My partner was told he would live.",
+    "predicted_emotion": "relief",
+    "confidence": 0.9961,
+    "image": "visuals/V0447_phrase.png"
+  },
+  {
+    "blind_id": "V0450",
+    "sentence": "I felt ... when I told my boyfriend about how I was feeling stressed out about our friends and my work and my health and he sat and listened to me and offered advice. I didn't expect him to, and I've had bad relationships in the past. When he didn't react poorly, I felt ... towards him. I felt like he was someone that I could go to with problems that wouldn't get angry with me for them.",
+    "predicted_emotion": "trust",
+    "confidence": 0.4378,
+    "image": "visuals/V0450_phrase.png"
+  },
+  {
+    "blind_id": "V0451",
+    "sentence": "I received a gift from my partner that she repeatedly told me she wouldn't be able to get.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.8217,
+    "image": "visuals/V0451_phrase.png"
+  },
+  {
+    "blind_id": "V0453",
+    "sentence": "A time o felt ... is when my mom and friends planned a ... bday party for my 17th bday.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.7975,
+    "image": "visuals/V0453_phrase.png"
+  },
+  {
+    "blind_id": "V0455",
+    "sentence": "I finished the end of my contracted work and was going to be out of work AND also not have any government support. But I was able to reapply for government support and when I got the email that it had been accepted, and that I also had a concession card again, it was .... I still need to find more work, but I won't be completely hopeless.",
+    "predicted_emotion": "relief",
+    "confidence": 0.4058,
+    "image": "visuals/V0455_phrase.png"
+  },
+  {
+    "blind_id": "V0457",
+    "sentence": "a garbage truck came around a turn in the wrong lane, nearly hitting me.",
+    "predicted_emotion": "fear",
+    "confidence": 0.4364,
+    "image": "visuals/V0457_phrase.png"
+  },
+  {
+    "blind_id": "V0458",
+    "sentence": "on my birthday party",
+    "predicted_emotion": "surprise",
+    "confidence": 0.275,
+    "image": "visuals/V0458_phrase.png"
+  },
+  {
+    "blind_id": "V0459",
+    "sentence": "I felt ... when doing an absail down a building",
+    "predicted_emotion": "fear",
+    "confidence": 0.685,
+    "image": "visuals/V0459_phrase.png"
+  },
+  {
+    "blind_id": "V0460",
+    "sentence": "I met up with a friend and we caught up about our lives, spoke very openly and honestly. I ... her",
+    "predicted_emotion": "trust",
+    "confidence": 0.4467,
+    "image": "visuals/V0460_phrase.png"
+  },
+  {
+    "blind_id": "V0462",
+    "sentence": "WHEN MY KID WAS BORN",
+    "predicted_emotion": "joy",
+    "confidence": 0.6995,
+    "image": "visuals/V0462_phrase.png"
+  },
+  {
+    "blind_id": "V0464",
+    "sentence": "my friend told me she had seen my boyfriend on a dating app, i completely ... him and told her that it must have been his old profile which he had not deleted correctly, believing that he deleted the app from his phone rather than the profile.  i said to him that you need to log back in to it and delete your profile properly. i felt nothing but ... for him that this was the case, turns out i was completely wrong, found out a week later he was talking to others and his profile was showing up on my friends dating app as he had been active recently",
+    "predicted_emotion": "trust",
+    "confidence": 0.3758,
+    "image": "visuals/V0464_phrase.png"
+  },
+  {
+    "blind_id": "V0466",
+    "sentence": "When I discovered my grandparents were coming to visit me as for the last 6 years they have stressed they never had any intention of coming to visit me",
+    "predicted_emotion": "surprise",
+    "confidence": 0.9742,
+    "image": "visuals/V0466_phrase.png"
+  },
+  {
+    "blind_id": "V0467",
+    "sentence": "I felt ... whenever customers come into the store, give me their water sample and ... everything I tell them and buy all of the products I suggest. when people actually ... me and believe that I'm not just selling them stuff to make money.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3924,
+    "image": "visuals/V0467_phrase.png"
+  },
+  {
+    "blind_id": "V0468",
+    "sentence": "I was asked to be the best man at a wedding of a friend I did not consider myself close with. I had not talked to him in more than a year, but he said I was one of his best friends. I had never even met the bride.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.7223,
+    "image": "visuals/V0468_phrase.png"
+  },
+  {
+    "blind_id": "V0470",
+    "sentence": "I had to take my child to hospital with a high temperature and suspected meningitis. I felt ... when the test results came back negative.",
+    "predicted_emotion": "relief",
+    "confidence": 0.9998,
+    "image": "visuals/V0470_phrase.png"
+  },
+  {
+    "blind_id": "V0472",
+    "sentence": "I felt ... when my mum came out of her surgery and everything had gone well because I was really worried about her and wanted her to be ok",
+    "predicted_emotion": "relief",
+    "confidence": 0.3516,
+    "image": "visuals/V0472_phrase.png"
+  },
+  {
+    "blind_id": "V0475",
+    "sentence": "The bus didn\u2019t stop for me",
+    "predicted_emotion": "anger",
+    "confidence": 0.9651,
+    "image": "visuals/V0475_phrase.png"
+  },
+  {
+    "blind_id": "V0477",
+    "sentence": "I was home alone for a few nights and there had been crimes committed in my local area",
+    "predicted_emotion": "fear",
+    "confidence": 0.1909,
+    "image": "visuals/V0477_phrase.png"
+  },
+  {
+    "blind_id": "V0478",
+    "sentence": "I felt ... when I was in a lecture that I didn't understand",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7883,
+    "image": "visuals/V0478_phrase.png"
+  },
+  {
+    "blind_id": "V0480",
+    "sentence": "When my son scored 98%in Math Advance placement in grade 11",
+    "predicted_emotion": "pride",
+    "confidence": 0.8558,
+    "image": "visuals/V0480_phrase.png"
+  },
+  {
+    "blind_id": "V0484",
+    "sentence": "i had started working from home in 2020 and lost all the progress of my apprenticeship in a business as we were moving rooms and i had helped set it all up with the laptops and tables moving and so forth, missing my colleagues i had a fun time with",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9984,
+    "image": "visuals/V0484_phrase.png"
+  },
+  {
+    "blind_id": "V0485",
+    "sentence": "I won in a video game",
+    "predicted_emotion": "pride",
+    "confidence": 0.2361,
+    "image": "visuals/V0485_phrase.png"
+  },
+  {
+    "blind_id": "V0487",
+    "sentence": "the death of my grandmother and at her funeral when people were commenting and looking into her open casket.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.3255,
+    "image": "visuals/V0487_phrase.png"
+  },
+  {
+    "blind_id": "V0489",
+    "sentence": "I felt ... when me and my boyfriend and cousin all went to the haunted caves in my hometown because it's a natural underground cave system that has a lot of traffic through it during the month of October, and it doesn't have very many reinforcements inside of it so I was ... that it was going to cave in on us while we were in there. This is an event that I have heard of happening before. I was also ... because it was a haunted attraction and I knew that there would be people inside ready to ... me as I pass them and I am very very easily jump ... and I knew that they would be able to easily ... me and my group that I was with",
+    "predicted_emotion": "fear",
+    "confidence": 0.9919,
+    "image": "visuals/V0489_phrase.png"
+  },
+  {
+    "blind_id": "V0491",
+    "sentence": "my mother opened up to me about her mental health problems as i confessed about my own. i felt safe to ... her.",
+    "predicted_emotion": "trust",
+    "confidence": 0.8617,
+    "image": "visuals/V0491_phrase.png"
+  },
+  {
+    "blind_id": "V0493",
+    "sentence": "I felt ... when the US borders opened again for UK travellers",
+    "predicted_emotion": "surprise",
+    "confidence": 0.2611,
+    "image": "visuals/V0493_phrase.png"
+  },
+  {
+    "blind_id": "V0494",
+    "sentence": "I felt ... when I was able to collect enough money for my business to make payroll. I was worried I did not have enough money in the business bank account to pay employees for the time period and wasn't sure what to do. At the last minute I had a few customers make payments on their accounts and was able to successfully pay my employees.",
+    "predicted_emotion": "relief",
+    "confidence": 0.732,
+    "image": "visuals/V0494_phrase.png"
+  },
+  {
+    "blind_id": "V0497",
+    "sentence": "I watched my baby girl walk for the first time",
+    "predicted_emotion": "pride",
+    "confidence": 0.3403,
+    "image": "visuals/V0497_phrase.png"
+  },
+  {
+    "blind_id": "V0498",
+    "sentence": "When my dog ate his poo",
+    "predicted_emotion": "disgust",
+    "confidence": 0.9985,
+    "image": "visuals/V0498_phrase.png"
+  },
+  {
+    "blind_id": "V0501",
+    "sentence": "I was ... when my friend told me she had slept with a friends brother who happened to be engaged. It was very ... to me as the person in question who was engaged did not seem like the type and acted like a very wholesome person.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.543,
+    "image": "visuals/V0501_phrase.png"
+  },
+  {
+    "blind_id": "V0504",
+    "sentence": "My grandmother died",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9802,
+    "image": "visuals/V0504_phrase.png"
+  },
+  {
+    "blind_id": "V0505",
+    "sentence": "my Dad was able to break his smoking habit.  My father was a smoker for 46 years before he finally managed to quit.  I was so ... that he was able to do that for himself.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3079,
+    "image": "visuals/V0505_phrase.png"
+  },
+  {
+    "blind_id": "V0507",
+    "sentence": "my daughter was ill and was very sick through the night and i felt i couldn't help",
+    "predicted_emotion": "sadness",
+    "confidence": 0.6925,
+    "image": "visuals/V0507_phrase.png"
+  },
+  {
+    "blind_id": "V0509",
+    "sentence": "When my 1 year-old son was in his swing in our back yard and he flung himself forward towards a ball in front of him. He managed to tip himself right over, which we didn't realize was possible as the swing was designed for children his age, and he nearly to the ground onto his head but luckily I was a few feet away and was able to catch him.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3723,
+    "image": "visuals/V0509_phrase.png"
+  },
+  {
+    "blind_id": "V0510",
+    "sentence": "I was back at home after an evening out and my daughter had gone to bed for her dad ok",
+    "predicted_emotion": "relief",
+    "confidence": 0.222,
+    "image": "visuals/V0510_phrase.png"
+  },
+  {
+    "blind_id": "V0511",
+    "sentence": "A close friend told me she was pregnant after years of trying",
+    "predicted_emotion": "surprise",
+    "confidence": 0.9242,
+    "image": "visuals/V0511_phrase.png"
+  },
+  {
+    "blind_id": "V0512",
+    "sentence": "Two years ago i tagged along on my uncles family vacation, my uncle invited me to keep my 12 year old cousin company on the trip from Michigan to Florida, then Tennessee and back to Michigan. It was the first trip id ever gone on out of state with people that arent my immediate family and i had to ... my uncle to have my back across the country.",
+    "predicted_emotion": "trust",
+    "confidence": 0.3385,
+    "image": "visuals/V0512_phrase.png"
+  },
+  {
+    "blind_id": "V0513",
+    "sentence": "My son got a good report at school",
+    "predicted_emotion": "pride",
+    "confidence": 0.337,
+    "image": "visuals/V0513_phrase.png"
+  },
+  {
+    "blind_id": "V0515",
+    "sentence": "I felt ... when I was out one day picking up trash in the park and a woman around my age came up to me and was so excited to see what I was doing, she asked for my phone number and said maybe we could hang out sometime and get our kids to hang out. I was ... because no one had ever been that excited about something I was doing, and as an adult I'd never had a stranger ask for my number and want to be my friend so randomly like that.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.8458,
+    "image": "visuals/V0515_phrase.png"
+  },
+  {
+    "blind_id": "V0517",
+    "sentence": "The coronavirus lockdown 3.0 was announced and it was for a longer period",
+    "predicted_emotion": "fear",
+    "confidence": 0.4278,
+    "image": "visuals/V0517_phrase.png"
+  },
+  {
+    "blind_id": "V0519",
+    "sentence": "when I think about how much i'm struggling with finances",
+    "predicted_emotion": "fear",
+    "confidence": 0.209,
+    "image": "visuals/V0519_phrase.png"
+  },
+  {
+    "blind_id": "V0520",
+    "sentence": "my COVID test came back negative",
+    "predicted_emotion": "relief",
+    "confidence": 0.2552,
+    "image": "visuals/V0520_phrase.png"
+  },
+  {
+    "blind_id": "V0522",
+    "sentence": "I was ... when I came home and found out I had won a raffle.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.9363,
+    "image": "visuals/V0522_phrase.png"
+  },
+  {
+    "blind_id": "V0524",
+    "sentence": "I felt ... when my friend visited for my birthday because I thought she was away",
+    "predicted_emotion": "surprise",
+    "confidence": 0.5372,
+    "image": "visuals/V0524_phrase.png"
+  },
+  {
+    "blind_id": "V0526",
+    "sentence": "I had my first vaccine, as I have a fear of needles but it was not as bad as I thought it would be.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3285,
+    "image": "visuals/V0526_phrase.png"
+  },
+  {
+    "blind_id": "V0527",
+    "sentence": "I felt ... when I was out one day picking up trash in the park and a woman around my age came up to me and was so excited to see what I was doing, she asked for my phone number and said maybe we could hang out sometime and get our kids to hang out. I was ... because no one had ever been that excited about something I was doing, and as an adult I'd never had a stranger ask for my number and want to be my friend so randomly like that.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.8689,
+    "image": "visuals/V0527_phrase.png"
+  },
+  {
+    "blind_id": "V0533",
+    "sentence": "Telling my boyfriend of past traumers",
+    "predicted_emotion": "trust",
+    "confidence": 0.3419,
+    "image": "visuals/V0533_phrase.png"
+  },
+  {
+    "blind_id": "V0534",
+    "sentence": "I felt ... when I scraped and dented my car along a pole(?) in my campus parking garage with a slowly growing line of cars behind me waiting to park.",
+    "predicted_emotion": "fear",
+    "confidence": 0.584,
+    "image": "visuals/V0534_phrase.png"
+  },
+  {
+    "blind_id": "V0536",
+    "sentence": "My boyfriend got me an Apple Watch for my birthday",
+    "predicted_emotion": "surprise",
+    "confidence": 0.5894,
+    "image": "visuals/V0536_phrase.png"
+  },
+  {
+    "blind_id": "V0539",
+    "sentence": "When I was meditating last night because I gave myself permission to just be in the moment and not have to think or worry or dwell on anything at all.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.4643,
+    "image": "visuals/V0539_phrase.png"
+  },
+  {
+    "blind_id": "V0544",
+    "sentence": "Moving back home after moving to London",
+    "predicted_emotion": "relief",
+    "confidence": 0.4028,
+    "image": "visuals/V0544_phrase.png"
+  },
+  {
+    "blind_id": "V0548",
+    "sentence": "I felt ... when i slept with someone and turned up at my boyfriends house",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.3674,
+    "image": "visuals/V0548_phrase.png"
+  },
+  {
+    "blind_id": "V0551",
+    "sentence": "I brushed my teeth this morning.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.9951,
+    "image": "visuals/V0551_phrase.png"
+  },
+  {
+    "blind_id": "V0552",
+    "sentence": "I felt ... when my oldest child stole the basketball from a member of the opposing team. I couldn't stop smiling and cheering them on! I was so happy for them because they were super shy and reserved.",
+    "predicted_emotion": "pride",
+    "confidence": 0.5417,
+    "image": "visuals/V0552_phrase.png"
+  },
+  {
+    "blind_id": "V0555",
+    "sentence": "I felt ... when I had to have a blood test and the nurse had trouble finding a suitable vein to draw the sample from. I usually do not feel nervous or ... before having a test done but this particular time I did because she had the tourniquet on my arm for a very long time and was pushing and pulling around to try and get a vein. She did get a vein but she did not give me anything to rest my arm on while having my blood drawn so it was a bit of an awkward and uncomfortable angle and I could feel the needle moving around in my arm. Due to this, I felt quite sick and ... and I actually ended up feeling quite hot and I was really anxious that I might faint! Each time I thought about it afterwards, I felt queasy and my arm bruised quite badly afterwards.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.2343,
+    "image": "visuals/V0555_phrase.png"
+  },
+  {
+    "blind_id": "V0557",
+    "sentence": "My mom and stepdad finally said they were getting a divorce and so my mom, sister and I have to move out. I\u2019ve lived in a 9 1/2 feet by 10 foot room for 6 years. One of the walls is outlined from the left wall to the right wall and along the ceiling with thick built in bookshelves and in the middle of where a wall should be, is just a huge window that goes to the floor, and my rooms view is to another wall. People from the kitchen can look into my room from the window and I can see into my sisters room from that window, it\u2019s weird, I don\u2019t have a window I can open in my room cuz it\u2019s literally in the middle of the house so it\u2019s technically a safety hazard. I can\u2019t wait to have a bigger room.",
+    "predicted_emotion": "joy",
+    "confidence": 0.3875,
+    "image": "visuals/V0557_phrase.png"
+  },
+  {
+    "blind_id": "V0559",
+    "sentence": "I felt ... when I was in a public place during the coronavirus pandemic",
+    "predicted_emotion": "fear",
+    "confidence": 0.5374,
+    "image": "visuals/V0559_phrase.png"
+  },
+  {
+    "blind_id": "V0561",
+    "sentence": "My daughter was accused of stealing with no proof despite there being plenty other people around who could have done it",
+    "predicted_emotion": "anger",
+    "confidence": 0.9859,
+    "image": "visuals/V0561_phrase.png"
+  },
+  {
+    "blind_id": "V0563",
+    "sentence": "watching my niece perform in a west end stage show in london",
+    "predicted_emotion": "pride",
+    "confidence": 0.2672,
+    "image": "visuals/V0563_phrase.png"
+  },
+  {
+    "blind_id": "V0564",
+    "sentence": "i was involved in a fire",
+    "predicted_emotion": "fear",
+    "confidence": 0.3519,
+    "image": "visuals/V0564_phrase.png"
+  },
+  {
+    "blind_id": "V0566",
+    "sentence": "sitting around a campfire, feeling both physically and mentally supported by my best friends on an unseasonably warm spring night on a Scottish beach.",
+    "predicted_emotion": "joy",
+    "confidence": 0.6223,
+    "image": "visuals/V0566_phrase.png"
+  },
+  {
+    "blind_id": "V0568",
+    "sentence": "I felt ... when my partner left a cup of tea on his desk and I saw it was starting to go mouldy as I could see white stuff on the drink. I smelt it to check and it smelt very horrid like cheese.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.3542,
+    "image": "visuals/V0568_phrase.png"
+  },
+  {
+    "blind_id": "V0569",
+    "sentence": "I felt ... when I got sick mysteriously and puked two days after moving away from home into a dorm, and going to the drop in clinic very very early in the morning and they looked after me even when I was stress-crying and freaked out from puking blood and being in a new place where I knew no one.",
+    "predicted_emotion": "trust",
+    "confidence": 0.2098,
+    "image": "visuals/V0569_phrase.png"
+  },
+  {
+    "blind_id": "V0571",
+    "sentence": "a friend opened up to me about the end of their relationship and we talked about it",
+    "predicted_emotion": "trust",
+    "confidence": 0.3716,
+    "image": "visuals/V0571_phrase.png"
+  },
+  {
+    "blind_id": "V0572",
+    "sentence": "\"I finally was able to get approved to refinance my home after a divorce.  My income is somewhat non-standard (not salaried) and even though it is quite consistent and reliable (arguably more reliable than a salary because I can't really get \"\"fired\"\") the bank did not like that the amount wasn't guaranteed.  It looked at one point like I was going to have to sell my home.\"",
+    "predicted_emotion": "relief",
+    "confidence": 0.3283,
+    "image": "visuals/V0572_phrase.png"
+  },
+  {
+    "blind_id": "V0574",
+    "sentence": "the child I was babysitting ran off in the park and I couldn't find him for a few minutes, and then he finally came out of the wooded area that he had followed some other children into.",
+    "predicted_emotion": "relief",
+    "confidence": 0.1425,
+    "image": "visuals/V0574_phrase.png"
+  },
+  {
+    "blind_id": "V0575",
+    "sentence": "I got an email saying I was considered a high achieving student at my university and should consider enrolling in an honours program.",
+    "predicted_emotion": "pride",
+    "confidence": 0.9769,
+    "image": "visuals/V0575_phrase.png"
+  },
+  {
+    "blind_id": "V0577",
+    "sentence": "I felt ... when watching the news recently with my girlfriend and a segment about the Taliban regaining control of Afghanistan was shown. My girlfriend commented how bad and terrible it is for the people over there but I didn't feel much ... for the situation. I think it was mainly because the news ... me and I'm detached from the goings on thousands of miles away. It lead to my girlfriend telling me I had no heart, and I know it is a sad and bad thing to happen, but I just didn't feel ....",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.3801,
+    "image": "visuals/V0577_phrase.png"
+  },
+  {
+    "blind_id": "V0579",
+    "sentence": "I was going to have a colonoscopy for the first time",
+    "predicted_emotion": "fear",
+    "confidence": 0.9991,
+    "image": "visuals/V0579_phrase.png"
+  },
+  {
+    "blind_id": "V0580",
+    "sentence": "I felt ... when, after completing a programming bootcamp, I was chosen by the bootcamp to be put forward for an interview at a major marketing company for a web-development job. I didn't have a degree in computer science, so I worked very hard to learn programming during the 6-month program, so to be one of the 5 people out of more than a hundred to get a shot to represent the program and get a real programming job made me extremely ....",
+    "predicted_emotion": "pride",
+    "confidence": 0.275,
+    "image": "visuals/V0580_phrase.png"
+  },
+  {
+    "blind_id": "V0582",
+    "sentence": "A manager totally blocked an idea that was for charity",
+    "predicted_emotion": "anger",
+    "confidence": 0.9986,
+    "image": "visuals/V0582_phrase.png"
+  },
+  {
+    "blind_id": "V0584",
+    "sentence": "When my child split their head openand had to go to hospital",
+    "predicted_emotion": "fear",
+    "confidence": 0.2615,
+    "image": "visuals/V0584_phrase.png"
+  },
+  {
+    "blind_id": "V0585",
+    "sentence": "Approaching a large jump on a horse, I ... the horse to safely get us over it.",
+    "predicted_emotion": "trust",
+    "confidence": 0.234,
+    "image": "visuals/V0585_phrase.png"
+  },
+  {
+    "blind_id": "V0587",
+    "sentence": "I finished an interview for a job",
+    "predicted_emotion": "relief",
+    "confidence": 0.5976,
+    "image": "visuals/V0587_phrase.png"
+  },
+  {
+    "blind_id": "V0592",
+    "sentence": "I had gotten back on land after my first time on a boat at sea.  When I was 16, I took a ferry ride that lasted about 6 hours.  It was my first time on a boat of that size, so I had never realized just how susceptible to sea sickness I truly was until the second hour of the trip.  I've never felt more ... in my entire life than the moment that the boat docked, and I was able to finally set foot back on solid ground.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2922,
+    "image": "visuals/V0592_phrase.png"
+  },
+  {
+    "blind_id": "V0593",
+    "sentence": "I felt ... when we saw that people were still waiting at the bus stop be sure I had slept in and had been rushing to get my son ready for school, as I had to work, and if we missed the bus I'd have been late for work and I have severe anxiety about being late. So when we left the building and looked down the street to the bus stop and saw people waiting still, ... washed over me because I knew everything was going to be okay.",
+    "predicted_emotion": "relief",
+    "confidence": 1.0,
+    "image": "visuals/V0593_phrase.png"
+  },
+  {
+    "blind_id": "V0596",
+    "sentence": "When I was working on a job I had no interest in",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7021,
+    "image": "visuals/V0596_phrase.png"
+  },
+  {
+    "blind_id": "V0597",
+    "sentence": "My sons ex girlfriend continues to contact me and put me in the middle of their relationship every time they have an argument.. to the point were she almost threatens me about him",
+    "predicted_emotion": "anger",
+    "confidence": 0.953,
+    "image": "visuals/V0597_phrase.png"
+  },
+  {
+    "blind_id": "V0598",
+    "sentence": "the company I work for became a serious contender in the market we operate in. Starting at this company when it was a mere start up with a handful of staff to becoming the 4th biggest in the country was a huge achievement that we all worked so hard for. The ... we all felt kept on growing as the momentum of our hard work meant that we pushed harder and harder.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3887,
+    "image": "visuals/V0598_phrase.png"
+  },
+  {
+    "blind_id": "V0601",
+    "sentence": "Trying to fall asleep after watching a short ... movie.",
+    "predicted_emotion": "fear",
+    "confidence": 0.7331,
+    "image": "visuals/V0601_phrase.png"
+  },
+  {
+    "blind_id": "V0603",
+    "sentence": "my brother passed away suddenly",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9984,
+    "image": "visuals/V0603_phrase.png"
+  },
+  {
+    "blind_id": "V0605",
+    "sentence": "Being ignored by people I though were my friends on my birthday.",
+    "predicted_emotion": "sadness",
+    "confidence": 1.0,
+    "image": "visuals/V0605_phrase.png"
+  },
+  {
+    "blind_id": "V0606",
+    "sentence": "I felt ... when I was last at the beach because I was swimming in the ocean and a fin passed nearby in the water, but it turned out to be a dolphin, not a shark like I thought.",
+    "predicted_emotion": "fear",
+    "confidence": 0.4897,
+    "image": "visuals/V0606_phrase.png"
+  },
+  {
+    "blind_id": "V0608",
+    "sentence": "I felt ... when I was walking with my wife on one of our hikes. I remember she walked ahead to look at something and when she turned around I felt ... like I never have before. She was looking at me smiling. I felt an emotion that was so strong so deep in my soul, I was so ... she was my wife. I have always lover her since high school but that day something special hit my soul pure ....",
+    "predicted_emotion": "joy",
+    "confidence": 0.9927,
+    "image": "visuals/V0608_phrase.png"
+  },
+  {
+    "blind_id": "V0609",
+    "sentence": "the event I went to went well and smoothly and I got home safely.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3382,
+    "image": "visuals/V0609_phrase.png"
+  },
+  {
+    "blind_id": "V0611",
+    "sentence": "When I attended my 12 week pregnancy scan. It was such a ... to know everything was okay and he was healthy and growing as he should be.",
+    "predicted_emotion": "relief",
+    "confidence": 0.2925,
+    "image": "visuals/V0611_phrase.png"
+  },
+  {
+    "blind_id": "V0612",
+    "sentence": "I felt ... when I was about 12 or 13, I was so ... and couldn't find anything to watch  on T.V. It was a Saturday and i couldn't drive so i wasn't able to leave. I went to my mom and told her I was .... She then told me she would find me something to do like chores. Then proceeded to list chores for me to do. I was annoyed and didn't want to do them. I left the room annoyed and upset because I was still ... but i than found myself playing a game on my ipad.",
+    "predicted_emotion": "boredom",
+    "confidence": 0.8051,
+    "image": "visuals/V0612_phrase.png"
+  },
+  {
+    "blind_id": "V0613",
+    "sentence": "i found out about a house sale",
+    "predicted_emotion": "surprise",
+    "confidence": 0.6141,
+    "image": "visuals/V0613_phrase.png"
+  },
+  {
+    "blind_id": "V0615",
+    "sentence": "I was trading and after taking a risk and being on course to lose money I had the patience and skill to turn it into a gain.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3049,
+    "image": "visuals/V0615_phrase.png"
+  },
+  {
+    "blind_id": "V0616",
+    "sentence": "I was in the car on the way to school quite a few years back, and I was remembering a time that I made my crush laugh. I was just looking out the window as I always did and randomly remembered and felt .... I was also ... anticipating seeing them when I got to school.",
+    "predicted_emotion": "joy",
+    "confidence": 0.759,
+    "image": "visuals/V0616_phrase.png"
+  },
+  {
+    "blind_id": "V0622",
+    "sentence": "Birthday party had been arranged",
+    "predicted_emotion": "surprise",
+    "confidence": 0.1812,
+    "image": "visuals/V0622_phrase.png"
+  },
+  {
+    "blind_id": "V0623",
+    "sentence": "It was the weekend",
+    "predicted_emotion": "joy",
+    "confidence": 0.6338,
+    "image": "visuals/V0623_phrase.png"
+  },
+  {
+    "blind_id": "V0624",
+    "sentence": "I would feel ... when I looked at my windowsill and saw all the dirt/gecko poop/dead flies/dead mosquitos accumulate on it. There was a small hole in my window that I was unaware of and that was where all those things were coming from. I had to clean it every once in a while and it was always so ....",
+    "predicted_emotion": "disgust",
+    "confidence": 1.0,
+    "image": "visuals/V0624_phrase.png"
+  },
+  {
+    "blind_id": "V0626",
+    "sentence": "when travelling on a countryside we drove over a pool of blood in the pitch dark",
+    "predicted_emotion": "fear",
+    "confidence": 0.5438,
+    "image": "visuals/V0626_phrase.png"
+  },
+  {
+    "blind_id": "V0629",
+    "sentence": "Someone tried to get into our house",
+    "predicted_emotion": "fear",
+    "confidence": 0.9631,
+    "image": "visuals/V0629_phrase.png"
+  },
+  {
+    "blind_id": "V0631",
+    "sentence": "I had to take my child to hospital with a high temperature and suspected meningitis. I felt ... when the test results came back negative.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3032,
+    "image": "visuals/V0631_phrase.png"
+  },
+  {
+    "blind_id": "V0633",
+    "sentence": "I felt ... when I went to the gym instead of helping my parents at the store, because I work for my parents, and the store ended up being super busy and my mom was alone during the rush and couldn't even message anyone for help because it was nonstop busy. I should have been there.",
+    "predicted_emotion": "guilt",
+    "confidence": 0.5557,
+    "image": "visuals/V0633_phrase.png"
+  },
+  {
+    "blind_id": "V0634",
+    "sentence": "I found ... when I was able to keep my job during a worldwide pandemic",
+    "predicted_emotion": "relief",
+    "confidence": 0.3065,
+    "image": "visuals/V0634_phrase.png"
+  },
+  {
+    "blind_id": "V0636",
+    "sentence": "When i seen a video of a person eating a bowl of Larvae on tiktok",
+    "predicted_emotion": "disgust",
+    "confidence": 0.3304,
+    "image": "visuals/V0636_phrase.png"
+  },
+  {
+    "blind_id": "V0639",
+    "sentence": "I felt ... when all electric in our village went off and no one knew what had happened and people were shouting in the streets.",
+    "predicted_emotion": "fear",
+    "confidence": 0.7448,
+    "image": "visuals/V0639_phrase.png"
+  },
+  {
+    "blind_id": "V0640",
+    "sentence": "I thought I would have to repeat a University module due to failing it, but for some reason I was allowed to move forward with the fail grade without it affecting my final results.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3825,
+    "image": "visuals/V0640_phrase.png"
+  },
+  {
+    "blind_id": "V0641",
+    "sentence": "I let people in myHome",
+    "predicted_emotion": "trust",
+    "confidence": 0.1501,
+    "image": "visuals/V0641_phrase.png"
+  },
+  {
+    "blind_id": "V0643",
+    "sentence": "My boyfriend proposed to me.",
+    "predicted_emotion": "surprise",
+    "confidence": 0.7724,
+    "image": "visuals/V0643_phrase.png"
+  },
+  {
+    "blind_id": "V0646",
+    "sentence": "i was having a bad day and my partner decided to surprise me with a date, i didn\u2019t know what was happening and was quite concerned that he was making me drive somewhere with him so late. before we drove out, he gave me a self care night with a bubble bath, massages and cuddles, he chose my outfit and took me to a 24 hour restaurant where he proposed. i felt ... that he would always make sure i felt happy and loved and safe with him, even on my worst days.",
+    "predicted_emotion": "trust",
+    "confidence": 0.4382,
+    "image": "visuals/V0646_phrase.png"
+  },
+  {
+    "blind_id": "V0649",
+    "sentence": "a person I met on a dating app ghosted me. I think I should have an emotion to it but I guess they didn't have an effect on me.",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.3022,
+    "image": "visuals/V0649_phrase.png"
+  },
+  {
+    "blind_id": "V0650",
+    "sentence": "I felt ... when I saw I had more money than I thought I did in my savings. This has happened a few times, but in this case, it meant I could pay all my bills and have about a week without worrying about my finances, which is very rare for me.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3047,
+    "image": "visuals/V0650_phrase.png"
+  },
+  {
+    "blind_id": "V0652",
+    "sentence": "I felt ... when I was able to move away from an awful area and into a place with my partner. For context I was living in a horrible area and was searching for ages to move and not able to find anywhere. A house I did not think I was going to get accept my details unexpectedly and I was able to leave.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3315,
+    "image": "visuals/V0652_phrase.png"
+  },
+  {
+    "blind_id": "V0654",
+    "sentence": "I felt ... when my long distance partner could finally come to canada after the lockdown was over! he lives in the US and the canadian border was closed to them for a long time until just recently, we were finally able to see each other again after 1.5 years.",
+    "predicted_emotion": "joy",
+    "confidence": 0.9164,
+    "image": "visuals/V0654_phrase.png"
+  },
+  {
+    "blind_id": "V0657",
+    "sentence": "when visiting my mother who is 90 because she does not go out and we have the same conversation each time",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7965,
+    "image": "visuals/V0657_phrase.png"
+  },
+  {
+    "blind_id": "V0658",
+    "sentence": "I had to wait for a bus",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7962,
+    "image": "visuals/V0658_phrase.png"
+  },
+  {
+    "blind_id": "V0659",
+    "sentence": "i gave birth to my daughter.  There were some health concerns whilst i was pregnant with her and i was anxious until she was actually born.  the birth was quick so the pain was not so bad but i felt such ... she was born without a disability.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3368,
+    "image": "visuals/V0659_phrase.png"
+  },
+  {
+    "blind_id": "V0665",
+    "sentence": "The same day I broke my arm, I had surgery to secure it with a plate.  It was performed very late after a very unpleasant day and finished just after midnight.  One of the most ... experiences I've ever had was waking up on the gurney with an arm that no longer had two halves of a bone jousting with each other.  I was wheeled back to my room and had my first proper sleep since about 4am the previous day.",
+    "predicted_emotion": "relief",
+    "confidence": 0.9043,
+    "image": "visuals/V0665_phrase.png"
+  },
+  {
+    "blind_id": "V0667",
+    "sentence": "I felt ... when someone I knew was driving around in her parent's car. The car had a disabled badge but neither parent were able to use the car or badge any longer. This person took great delight in parking in disabled spaces evertime she drove the car and could not see why it was a problem. She was not disabled",
+    "predicted_emotion": "disgust",
+    "confidence": 0.2918,
+    "image": "visuals/V0667_phrase.png"
+  },
+  {
+    "blind_id": "V0668",
+    "sentence": "When I skydived out of a plane in New Zealand, I felt real ... and ....",
+    "predicted_emotion": "joy",
+    "confidence": 0.9121,
+    "image": "visuals/V0668_phrase.png"
+  },
+  {
+    "blind_id": "V0669",
+    "sentence": "I felt rejected and not good enough by friends. I had planned on hosting my friends baby shower when she came to me and told me she would rather have it at our other friend's house and they had already started planning everything. I was really excited to host and had already done a lot on my end to begin and I felt really ... and hurt when they changed it to someone else's house.",
+    "predicted_emotion": "sadness",
+    "confidence": 0.2777,
+    "image": "visuals/V0669_phrase.png"
+  },
+  {
+    "blind_id": "V0671",
+    "sentence": "when at work i thought someone had died on the phone and help was slow to arrive",
+    "predicted_emotion": "fear",
+    "confidence": 0.8468,
+    "image": "visuals/V0671_phrase.png"
+  },
+  {
+    "blind_id": "V0672",
+    "sentence": "I felt ... when someone reached out to me to let me know that justice had occurred in my previous place of employment and that my working directly with HR had made a positive impact because he and I had talked previously about it. He had shared with me that he was trying and failing to work on the problem person so that he would change how he was treating others. Furthermore, this person talked to me about how he had changed for the better - the hard work that he had put into it and why he was the way he was before. I was directly impacted by the ways that he had changed positively. When he told me what had happened, and that this other person had been demoted, I felt elated for him and his team, and I ... him more.",
+    "predicted_emotion": "trust",
+    "confidence": 0.7006,
+    "image": "visuals/V0672_phrase.png"
+  },
+  {
+    "blind_id": "V0677",
+    "sentence": "someone threw up on me.",
+    "predicted_emotion": "disgust",
+    "confidence": 0.8282,
+    "image": "visuals/V0677_phrase.png"
+  },
+  {
+    "blind_id": "V0679",
+    "sentence": "I was driving down a country lane and a tractor came round the corner so i pressed my breaks and the car just slid on the stones i had to choose tractor tire or bush to put my car into i chose bush.",
+    "predicted_emotion": "fear",
+    "confidence": 0.9874,
+    "image": "visuals/V0679_phrase.png"
+  },
+  {
+    "blind_id": "V0684",
+    "sentence": "the company I work for became a serious contender in the market we operate in. Starting at this company when it was a mere start up with a handful of staff to becoming the 4th biggest in the country was a huge achievement that we all worked so hard for. The ... we all felt kept on growing as the momentum of our hard work meant that we pushed harder and harder.",
+    "predicted_emotion": "pride",
+    "confidence": 0.7059,
+    "image": "visuals/V0684_phrase.png"
+  },
+  {
+    "blind_id": "V0685",
+    "sentence": "I felt complete ... when I learnt that a colleague of mine defended my reputation in my absence. While some people were trying to defame me, my colleague in a question, took it upon himself to defend my honor and reputation. I was elated when I got wind of it and knew then that this was someone I could really ....",
+    "predicted_emotion": "trust",
+    "confidence": 0.3159,
+    "image": "visuals/V0685_phrase.png"
+  },
+  {
+    "blind_id": "V0687",
+    "sentence": "There was nothing for me to do",
+    "predicted_emotion": "boredom",
+    "confidence": 0.7918,
+    "image": "visuals/V0687_phrase.png"
+  },
+  {
+    "blind_id": "V0688",
+    "sentence": "I felt ... when I was finally able to enroll in classes for college after not being able to enroll in any of the ones I had picked out because they got filled quickly. I thought I was not going to be able to attend school that semester.",
+    "predicted_emotion": "relief",
+    "confidence": 0.3637,
+    "image": "visuals/V0688_phrase.png"
+  },
+  {
+    "blind_id": "V0692",
+    "sentence": "I felt ...  when I was able to drive my  car over 5 miles without stopping.  It was something that have never happened before.",
+    "predicted_emotion": "pride",
+    "confidence": 0.2795,
+    "image": "visuals/V0692_phrase.png"
+  },
+  {
+    "blind_id": "V0693",
+    "sentence": "I broke up with my ex. I had caught her in three different occasions with a particular guy. So, i was already expecting another cheating event from her. I tried to feel anger but the more I felt virtually ....",
+    "predicted_emotion": "no-emotion",
+    "confidence": 0.2616,
+    "image": "visuals/V0693_phrase.png"
+  },
+  {
+    "blind_id": "V0694",
+    "sentence": "I felt ... when my husband ... me and flew to Portugal to meet me on holiday and propose",
+    "predicted_emotion": "surprise",
+    "confidence": 0.6021,
+    "image": "visuals/V0694_phrase.png"
+  },
+  {
+    "blind_id": "V0695",
+    "sentence": "I felt ... when three runners from my country won 1st, 2nd, and 3rd place at the Olympics, it made me feel great to be identified with them.",
+    "predicted_emotion": "pride",
+    "confidence": 0.3385,
+    "image": "visuals/V0695_phrase.png"
+  }
+]
