@@ -71,7 +71,9 @@ def save(annotator, blind_id, label, comment):
     ws = get_worksheet()
     ws.append_row(row)
     st.session_state.setdefault("local_rows", []).append(row)
-    st.session_state.setdefault("done_session", set()).add(blind_id)
+    # corrections append a new row; the LAST row per (annotator, blind_id) counts
+    st.session_state.setdefault("done_session", {})[blind_id] = {
+        "label": label, "comment": comment}
 
 
 def main():
@@ -82,12 +84,12 @@ def main():
     annotator = ANNOTATORS[key]
     tasks = load_tasks(key)
     done = dict(load_done_from_sheet(annotator))
-    for bid in st.session_state.get("done_session", set()):
-        done.setdefault(bid, True)
-    todo = [t for t in tasks if t["blind_id"] not in done]
+    for bid, row in st.session_state.get("done_session", {}).items():
+        done[bid] = row
+    n_done = sum(1 for t in tasks if t["blind_id"] in done)
 
-    st.sidebar.markdown(f"**Progress: {len(tasks) - len(todo)} / {len(tasks)}**")
-    st.sidebar.progress((len(tasks) - len(todo)) / max(len(tasks), 1))
+    st.sidebar.markdown(f"**Progress: {n_done} / {len(tasks)}**")
+    st.sidebar.progress(n_done / max(len(tasks), 1))
 
     if st.session_state.get("local_rows"):
         buf = io.StringIO()
@@ -98,24 +100,58 @@ def main():
                                    buf.getvalue(),
                                    file_name=f"{annotator}_validation_backup.csv")
 
-    if not todo:
-        st.success("All tasks done. Thank you!")
-        return
+    # ---- position-based navigation ----
+    pos_key = f"pos_{key}"
+    first_open = next((i for i, t in enumerate(tasks) if t["blind_id"] not in done),
+                      len(tasks) - 1)
+    if pos_key not in st.session_state:
+        st.session_state[pos_key] = first_open
+    pos = max(0, min(st.session_state[pos_key], len(tasks) - 1))
 
-    t = todo[0]
-    st.subheader(f"Sample {t['blind_id']}  ({len(tasks) - len(todo) + 1} of {len(tasks)})")
+    c1, c2, c3, c4 = st.columns([1, 1, 2, 3])
+    if c1.button("← Previous", disabled=pos == 0):
+        st.session_state[pos_key] = pos - 1
+        st.rerun()
+    if c2.button("Next →", disabled=pos >= len(tasks) - 1):
+        st.session_state[pos_key] = pos + 1
+        st.rerun()
+    if c3.button("Jump to next unannotated"):
+        st.session_state[pos_key] = first_open
+        st.rerun()
+    jump = c4.selectbox("Go to sample", [t["blind_id"] +
+                        ("  ✓" if t["blind_id"] in done else "")
+                        for t in tasks], index=pos, label_visibility="collapsed")
+    jump_idx = [t["blind_id"] for t in tasks].index(jump.split()[0])
+    if jump_idx != pos:
+        st.session_state[pos_key] = jump_idx
+        st.rerun()
+
+    t = tasks[pos]
+    prev = done.get(t["blind_id"])
+    prev_label = prev.get("label") if isinstance(prev, dict) else None
+    prev_comment = str(prev.get("comment", "")) if isinstance(prev, dict) else ""
+
+    status = " — already annotated (saving again OVERWRITES your judgment)" if prev else ""
+    st.subheader(f"Sample {t['blind_id']}  ({pos + 1} of {len(tasks)}){status}")
     st.markdown(f"> {t['sentence']}")
     st.markdown(f"**Predicted emotion:** `{t['predicted_emotion']}` "
                 f"(confidence {t['confidence']:.1%})")
     st.image(str(HERE / t["image"]), width=850)
     st.markdown("**Do the highlighted phrases genuinely explain why this sentence "
                 "expresses the predicted emotion?**")
-    label = st.radio("Judgment", CATEGORIES, index=None, key=f"lab_{t['blind_id']}")
-    comment = st.text_input("Comment (optional)", key=f"com_{t['blind_id']}")
-    if st.button("Save and next", type="primary", disabled=label is None):
+    idx = CATEGORIES.index(prev_label) if prev_label in CATEGORIES else None
+    label = st.radio("Judgment", CATEGORIES, index=idx, key=f"lab_{key}_{t['blind_id']}")
+    comment = st.text_input("Comment (optional)", value=prev_comment,
+                            key=f"com_{key}_{t['blind_id']}")
+    btn = "Update and next" if prev else "Save and next"
+    if st.button(btn, type="primary", disabled=label is None):
         with st.spinner("Saving..."):
             save(annotator, t["blind_id"], label, comment)
         load_done_from_sheet.clear()
+        remaining = [i for i, x in enumerate(tasks)
+                     if x["blind_id"] not in done and x["blind_id"] != t["blind_id"]]
+        nxt = next((i for i in remaining if i > pos), remaining[0] if remaining else pos)
+        st.session_state[pos_key] = nxt
         st.rerun()
 
 
